@@ -30,6 +30,14 @@
 
 {{printMindmap . "具身智能专利" "name" "creator"}}
 
+## 年度趋势
+
+{{printYearChart . "专利公开年度趋势"}}
+
+## 国内 / 国际
+
+{{printRegionChart . "国内与国际公司专利数量"}}
+
 ## 目录
 
 {{- range $key, $val := .}}
