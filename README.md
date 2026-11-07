@@ -5,11 +5,11 @@
 
 **具身智能（Embodied AI）专利精选：按技术领域与公司两个维度收录人形机器人、操作大模型、灵巧手等方向的代表性专利，持续更新**
 
-已收录 **116** 条专利 · 覆盖 **58** 家公司 / 机构 · **9** 个技术领域分类（见[目录](#目录)）
+已收录 **124** 条专利 · 覆盖 **58** 家公司 / 机构 · **9** 个技术领域分类（见[目录](#目录)）
 
 [![Stars](https://img.shields.io/github/stars/LinuxSuRen/awesome-patent?style=flat-square)](https://github.com/LinuxSuRen/awesome-patent/stargazers)
 [![Last Commit](https://img.shields.io/github/last-commit/LinuxSuRen/awesome-patent?style=flat-square)](https://github.com/LinuxSuRen/awesome-patent/commits)
-[![Patents](https://img.shields.io/github/badge/patents-116-blue?style=flat-square)](#目录)
+[![Patents](https://img.shields.io/github/badge/patents-124-blue?style=flat-square)](#目录)
 [![License](https://img.shields.io/badge/license-MIT-green?style=flat-square)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square)](CONTRIBUTING.md)
 
@@ -49,6 +49,8 @@ mindmap
     Dexterous Manipulation
       执行机构、机械臂和机器人 · 自变量机器人科技（北京）有限公司
       AUTOMATED CONSTRAINED MANIPULATION · Boston Dynamics, Inc.
+      机器人控制方法、系统、服务器、存储介质及机械臂 · 深圳市越疆科技股份有限公司
+      一种机械臂的控制方法、装置及服务器 · 深圳市越疆科技股份有限公司
       KINEMATICS OF A MECHANICAL END EFFECTOR FOR A HUMANOID ROBOT · Figure AI, Inc.
       粘附设备和机器人 · 上海非夕机器人科技有限公司、非夕科技有限公司
       用于力控制的控制信号振动抑制方法和计算机设备 · 上海非夕机器人科技有限公司、非夕科技有限公司
@@ -61,6 +63,9 @@ mindmap
       灵巧手和机器人 · 智元创新（上海）科技股份有限公司
       灵巧手手指、灵巧手和机器人 · 智元创新（上海）科技股份有限公司
     Human-Robot Safety
+      基于增强现实的机器人操作方法、装置、存储介质 · 深圳市越疆科技股份有限公司
+      基于增强现实的机器人操作方法、装置和存储介质 · 深圳市越疆科技股份有限公司
+      基于增强现实的机器人操作方法、装置、设备和存储介质 · 深圳市越疆科技股份有限公司
       机械臂碰撞检测系统、方法、机械臂、机器人及芯片 · 深圳市越疆科技股份有限公司
       机器人零力拖拽的示教方法及系统 · 上海傅利叶智能科技股份有限公司
       一种机器人的反馈方法及机器人 · 华为技术有限公司
@@ -105,6 +110,8 @@ mindmap
       轨迹生成方法、装置、机器人及存储介质 · 北京小米机器人技术有限公司
       一种用于舵轮底盘的矢量控制方法及装置 · 星海图（苏州）人工智能科技有限公司
     Navigation & SLAM
+      一种移动轨迹规划方法、装置、设备和存储介质 · 深圳市越疆科技股份有限公司
+      一种自动手眼标定方法、装置及存储介质 · 深圳市越疆科技股份有限公司
       机器人的路径规划方法、装置、设备及机器人 · 追觅创新科技（苏州）有限公司
       悬崖检测方法、装置、自移动机器人及存储介质 · 追觅创新科技（苏州）有限公司
       机器人重定位方法及装置、存储介质及电子装置 · 追觅创新科技（苏州）有限公司
@@ -118,6 +125,7 @@ mindmap
       路径处理方法、装置、电子设备、计算机可读存储介质及计算机程序产品 · 深圳市优必选科技股份有限公司
       轨道机器人的定位方法、轨道机器人和可读存储介质 · 深圳优艾智合机器人科技有限公司
     Sim2Real & Data
+      加强学习方法、机器人和存储介质 · 深圳市越疆科技股份有限公司
       人形机器人动作库数据处理方法及装置 · 上海傅利叶智能科技股份有限公司
       机器人装配方法、装置、非易失性存储介质和计算机设备 · 节卡机器人股份有限公司
       基于深度强化学习的机器人手臂运动控制策略网络训练方法及装置 · 深圳逐际动力科技有限公司
@@ -150,12 +158,12 @@ mindmap
 
 ## 目录
 - ⚙️ [Actuator &amp; Structure](#actuator--structure)（25）
-- 🤏 [Dexterous Manipulation](#dexterous-manipulation)（13）
-- 🛡️ [Human-Robot Safety](#human-robot-safety)（7）
+- 🤏 [Dexterous Manipulation](#dexterous-manipulation)（15）
+- 🛡️ [Human-Robot Safety](#human-robot-safety)（10）
 - 🔎 [Inspection Robotics](#inspection-robotics)（16）
 - 🦿 [Locomotion](#locomotion)（18）
-- 🧭 [Navigation &amp; SLAM](#navigation--slam)（12）
-- 🎲 [Sim2Real &amp; Data](#sim2real--data)（8）
+- 🧭 [Navigation &amp; SLAM](#navigation--slam)（14）
+- 🎲 [Sim2Real &amp; Data](#sim2real--data)（9）
 - 👆 [Tactile Sensing](#tactile-sensing)（9）
 - 🧠 [VLA Model](#vla-model)（8）
 
@@ -194,7 +202,7 @@ mindmap
 | [关节模组和机器人](https://patents.google.com/patent/CN120862745B) | CN120862745B | 智元创新（上海）科技股份有限公司 | 2025 |
 
 <a id="dexterous-manipulation"></a>
-## 🤏 Dexterous Manipulation(13)
+## 🤏 Dexterous Manipulation(15)
 
 > 灵巧手与操作：抓取、柔性操作、多指控制
 
@@ -202,6 +210,8 @@ mindmap
 |---|---|---|---|
 | [执行机构、机械臂和机器人](https://patents.google.com/patent/CN122769934A) | CN122769934A | 自变量机器人科技（北京）有限公司 | 2026 |
 | [AUTOMATED CONSTRAINED MANIPULATION](https://patents.google.com/patent/WO2025128842A1) | WO2025128842A1 | Boston Dynamics, Inc. | 2025 |
+| [机器人控制方法、系统、服务器、存储介质及机械臂](https://patents.google.com/patent/CN113799135B) | CN113799135B | 深圳市越疆科技股份有限公司 | 2024 |
+| [一种机械臂的控制方法、装置及服务器](https://patents.google.com/patent/CN115150444A) | CN115150444A | 深圳市越疆科技股份有限公司 | 2022 |
 | [KINEMATICS OF A MECHANICAL END EFFECTOR FOR A HUMANOID ROBOT](https://patents.google.com/patent/WO2025151892A1) | WO2025151892A1 | Figure AI, Inc. | 2025 |
 | [粘附设备和机器人](https://patents.google.com/patent/CN116277089B) | CN116277089B | 上海非夕机器人科技有限公司、非夕科技有限公司 | 2026 |
 | [用于力控制的控制信号振动抑制方法和计算机设备](https://patents.google.com/patent/CN116442239B) | CN116442239B | 上海非夕机器人科技有限公司、非夕科技有限公司 | 2026 |
@@ -215,12 +225,15 @@ mindmap
 | [灵巧手手指、灵巧手和机器人](https://patents.google.com/patent/CN120170772B) | CN120170772B | 智元创新（上海）科技股份有限公司 | 2025 |
 
 <a id="human-robot-safety"></a>
-## 🛡️ Human-Robot Safety(7)
+## 🛡️ Human-Robot Safety(10)
 
 > 人机交互与安全：碰撞检测、柔顺控制、安全策略
 
 | Patent | Number | Company | Year |
 |---|---|---|---|
+| [基于增强现实的机器人操作方法、装置、存储介质](https://patents.google.com/patent/CN112650436A) | CN112650436A | 深圳市越疆科技股份有限公司 | 2021 |
+| [基于增强现实的机器人操作方法、装置和存储介质](https://patents.google.com/patent/CN112667138A) | CN112667138A | 深圳市越疆科技股份有限公司 | 2021 |
+| [基于增强现实的机器人操作方法、装置、设备和存储介质](https://patents.google.com/patent/CN112667139A) | CN112667139A | 深圳市越疆科技股份有限公司 | 2021 |
 | [机械臂碰撞检测系统、方法、机械臂、机器人及芯片](https://patents.google.com/patent/CN115351818B) | CN115351818B | 深圳市越疆科技股份有限公司 | 2026 |
 | [机器人零力拖拽的示教方法及系统](https://patents.google.com/patent/CN120921336B) | CN120921336B | 上海傅利叶智能科技股份有限公司 | 2025 |
 | [一种机器人的反馈方法及机器人](https://patents.google.com/patent/CN115079684B) | CN115079684B | 华为技术有限公司 | 2021 |
@@ -280,12 +293,14 @@ mindmap
 | [一种用于舵轮底盘的矢量控制方法及装置](https://patents.google.com/patent/CN119847134A) | CN119847134A | 星海图（苏州）人工智能科技有限公司 | 2025 |
 
 <a id="navigation--slam"></a>
-## 🧭 Navigation &amp; SLAM(12)
+## 🧭 Navigation &amp; SLAM(14)
 
 > 导航与 SLAM：定位建图、路径规划、场景理解
 
 | Patent | Number | Company | Year |
 |---|---|---|---|
+| [一种移动轨迹规划方法、装置、设备和存储介质](https://patents.google.com/patent/CN109623825B) | CN109623825B | 深圳市越疆科技股份有限公司 | 2021 |
+| [一种自动手眼标定方法、装置及存储介质](https://patents.google.com/patent/CN113172636B) | CN113172636B | 深圳市越疆科技股份有限公司 | 2021 |
 | [机器人的路径规划方法、装置、设备及机器人](https://patents.google.com/patent/CN120972934B) | CN120972934B | 追觅创新科技（苏州）有限公司 | 2026 |
 | [悬崖检测方法、装置、自移动机器人及存储介质](https://patents.google.com/patent/CN121500973A) | CN121500973A | 追觅创新科技（苏州）有限公司 | 2026 |
 | [机器人重定位方法及装置、存储介质及电子装置](https://patents.google.com/patent/CN121661312A) | CN121661312A | 追觅创新科技（苏州）有限公司 | 2026 |
@@ -300,12 +315,13 @@ mindmap
 | [轨道机器人的定位方法、轨道机器人和可读存储介质](https://patents.google.com/patent/CN119774204A) | CN119774204A | 深圳优艾智合机器人科技有限公司 |  |
 
 <a id="sim2real--data"></a>
-## 🎲 Sim2Real &amp; Data(8)
+## 🎲 Sim2Real &amp; Data(9)
 
 > 仿真训练与数据合成：sim2real 迁移、数据采集与蒸馏
 
 | Patent | Number | Company | Year |
 |---|---|---|---|
+| [加强学习方法、机器人和存储介质](https://patents.google.com/patent/CN109591012A) | CN109591012A | 深圳市越疆科技股份有限公司 | 2019 |
 | [人形机器人动作库数据处理方法及装置](https://patents.google.com/patent/CN121200088B) | CN121200088B | 上海傅利叶智能科技股份有限公司 | 2025 |
 | [机器人装配方法、装置、非易失性存储介质和计算机设备](https://patents.google.com/patent/CN122975633A) | CN122975633A | 节卡机器人股份有限公司 | 2026 |
 | [基于深度强化学习的机器人手臂运动控制策略网络训练方法及装置](https://patents.google.com/patent/CN121200037B) | CN121200037B | 深圳逐际动力科技有限公司 | 2025 |
