@@ -3,14 +3,20 @@
 {{- $icons := dict "Locomotion" "🦿" "Dexterous Manipulation" "🤏" "VLA Model" "🧠" "Tactile Sensing" "👆" "Navigation & SLAM" "🧭" "Sim2Real & Data" "🎲" "Human-Robot Safety" "🛡️" "Actuator & Structure" "⚙️" "Inspection Robotics" "🔎"}}
 {{- $descs := dict "Locomotion" "运动控制与平衡：步态规划、全身控制、动态平衡" "Dexterous Manipulation" "灵巧手与操作：抓取、柔性操作、多指控制" "VLA Model" "具身大模型与 VLA：视觉-语言-动作策略、任务规划" "Tactile Sensing" "触觉与传感：触觉皮肤、力觉感知、多模态传感" "Navigation & SLAM" "导航与 SLAM：定位建图、路径规划、场景理解" "Sim2Real & Data" "仿真训练与数据合成：sim2real 迁移、数据采集与蒸馏" "Human-Robot Safety" "人机交互与安全：碰撞检测、柔顺控制、安全策略" "Actuator & Structure" "关节执行器与结构：关节模组、准直驱、整机结构" "Inspection Robotics" "巡检机器人：电力、轨道、隧道、化工等场景的巡检系统与装置"}}
 {{- $total := 0}}
+{{- $companies := dict}}
 {{- range $key, $val := .}}
 {{- $total = add $total (len $val)}}
+{{- range $item := $val}}
+{{- if not (hasKey $companies $item.creator)}}{{$_ := set $companies $item.creator true}}{{end}}
+{{- end}}
 {{- end}}
 <div align="center">
 
 # 📜 Awesome Patent
 
 **具身智能（Embodied AI）专利精选：按技术领域与公司两个维度收录人形机器人、操作大模型、灵巧手等方向的代表性专利，持续更新**
+
+已收录 **{{$total}}** 条专利 · 覆盖 **{{len $companies}}** 家公司 / 机构 · **{{len .}}** 个技术领域分类（见[目录](#目录)）
 
 [![Stars](https://img.shields.io/github/stars/LinuxSuRen/awesome-patent?style=flat-square)](https://github.com/LinuxSuRen/awesome-patent/stargazers)
 [![Last Commit](https://img.shields.io/github/last-commit/LinuxSuRen/awesome-patent?style=flat-square)](https://github.com/LinuxSuRen/awesome-patent/commits)
