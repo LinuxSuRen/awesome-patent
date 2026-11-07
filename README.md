@@ -5,11 +5,11 @@
 
 **具身智能（Embodied AI）专利精选：按技术领域与公司两个维度收录人形机器人、操作大模型、灵巧手等方向的代表性专利，持续更新**
 
-已收录 **124** 条专利 · 覆盖 **58** 家公司 / 机构 · **9** 个技术领域分类（见[目录](#目录)）
+已收录 **145** 条专利 · 覆盖 **76** 家公司 / 机构 · **9** 个技术领域分类（见[目录](#目录)）
 
 [![Stars](https://img.shields.io/github/stars/LinuxSuRen/awesome-patent?style=flat-square)](https://github.com/LinuxSuRen/awesome-patent/stargazers)
 [![Last Commit](https://img.shields.io/github/last-commit/LinuxSuRen/awesome-patent?style=flat-square)](https://github.com/LinuxSuRen/awesome-patent/commits)
-[![Patents](https://img.shields.io/github/badge/patents-124-blue?style=flat-square)](#目录)
+[![Patents](https://img.shields.io/github/badge/patents-145-blue?style=flat-square)](#目录)
 [![License](https://img.shields.io/badge/license-MIT-green?style=flat-square)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square)](CONTRIBUTING.md)
 
@@ -30,11 +30,13 @@ mindmap
       下肢结构、连续关节结构以及机器人 · 星尘智能（深圳）有限公司
       机器人关节减速电机及机器人 · 深圳市越疆科技股份有限公司
       HIP ASSEMBLY AND KINEMATICS OF A HUMANOID ROBOT · Figure AI, Inc.
+      Wave gear device · Harmonic Drive Systems Inc
       一种沿双圆管轨道运行巡检机器人的四驱磁吸轮驱动机构 · 中信重工开诚智能装备有限公司
       一种换流站阀厅巡检机器人使用的组合式轨道 · 科大智能科技股份有限公司
       一种变电站巡检机器人新型驱动转向装置 · 科大智能科技股份有限公司
       巡检机器人用轨道限位器及轨道限位系统 · 深圳市朗驰欣创科技股份有限公司
       致动器，关节模组及机器人 · 深圳逐际动力科技有限公司
+      Rotary actuator · Nabtesco Corporation
       中空内气管人形机械臂 · 上海穹彻智能科技有限公司
       磁性绝对角度编码器和机器人 · 睿尔曼智能科技（北京）股份有限公司
       清洁机器人及清洁系统 · 北京石头世纪科技股份有限公司
@@ -55,6 +57,10 @@ mindmap
       粘附设备和机器人 · 上海非夕机器人科技有限公司、非夕科技有限公司
       用于力控制的控制信号振动抑制方法和计算机设备 · 上海非夕机器人科技有限公司、非夕科技有限公司
       ROBOT HAND AND ROBOT HAND CONTROL METHOD · Honda Motor Co., Ltd.
+      ハンドシステム、ワーク保持方法、ワーク生産方法 · 株式会社安川電機
+      원형 디저트의 상면에 이미지를 드로잉하는 방법 및 이를 이용한 컴퓨팅 장치 · （주） 티로보틱스
+      Modular end effector · Deutsches Zentrum für Luft- und Raumfahrt eV
+      双腕ロボットシステム · 川崎重工業株式会社
       一种双臂机器人双臂协作内力的调节方法及系统 · 宁波均普人工智能与人形机器人研究院有限公司
       面向精密装配的机器人灵巧手微力控制方法及系统 · 灵心巧手（北京）科技有限公司
       巡检机器人末端旋拧工具使用方法 · 杭州申昊科技股份有限公司
@@ -63,12 +69,15 @@ mindmap
       灵巧手和机器人 · 智元创新（上海）科技股份有限公司
       灵巧手手指、灵巧手和机器人 · 智元创新（上海）科技股份有限公司
     Human-Robot Safety
+      Worn movement assistance device · Cyberdyne Inc; University of Tsukuba
       基于增强现实的机器人操作方法、装置、存储介质 · 深圳市越疆科技股份有限公司
       基于增强现实的机器人操作方法、装置和存储介质 · 深圳市越疆科技股份有限公司
       基于增强现实的机器人操作方法、装置、设备和存储介质 · 深圳市越疆科技股份有限公司
       机械臂碰撞检测系统、方法、机械臂、机器人及芯片 · 深圳市越疆科技股份有限公司
       机器人零力拖拽的示教方法及系统 · 上海傅利叶智能科技股份有限公司
+      Device for monitoring at least one three-dimensional safety area · Fraunhofer-Gesellschaft zur Förderung der Angewandten Forschung eV; Otto-von-Guericke University Magdeburg
       一种机器人的反馈方法及机器人 · 华为技术有限公司
+      Ganzkörperimpedanz für mobile Roboter · Deutsches Zentrum für Luft- und Raumfahrt eV
       一种机械臂边界限制方法及系统 · 睿尔曼智能科技（江苏）有限公司
       ROBOTS, TELE-OPERATION SYSTEMS, COMPUTER PROGRAM PRODUCTS, AND METHODS OF OPERATING THE SAME · Sanctuary Cognitive Systems Corporation （Sanctuary AI）
       SYSTEMS AND METHODS FOR CONDITIONAL ROBOTIC TELEOPERATION · Toyota Research Institute, Inc.
@@ -80,6 +89,7 @@ mindmap
       电力巡检嵌入式边缘智能系统及方法 · 国网智能科技股份有限公司
       一种挂轨式智能巡检机器人 · 浙江国自机器人技术股份有限公司
       高速铁路牵引所亭智能巡测系统 · 浙江国自机器人技术股份有限公司
+      방폭 보행 로봇 · 애니보틱스 아게
       一种基于钢轨导向的车底快速巡检机器人系统 · 南京景曜智能科技有限公司
       一种煤仓巡检装置 · 中信重工开诚智能装备有限公司
       基于巡检机器人变电站表计全覆盖的巡检系统 · 深圳市朗驰欣创科技股份有限公司
@@ -96,10 +106,14 @@ mindmap
       TERRAIN AWARE STEP PLANNING SYSTEM · Boston Dynamics, Inc.
       SLIP HANDLING AND GROUND FRICTION ESTIMATION FOR ROBOTS · Boston Dynamics, Inc.
       一种机器人的上下底盘操作方法、装置、设备及存储介质 · 数字华夏（深圳）科技有限公司
+      Robot with an adaptive robotic foot · ETH Zurich （Eidgenössische Technische Hochschule Zürich）; Qbrobotics Srl; University of Pisa; Italian Institute of Technology
       机器人轨迹控制方法及系统 · 上海傅利叶智能科技股份有限公司
       防摔倒方法、装置及机器人 · 北京银河通用机器人股份有限公司
       ROBOT, CONTROL METHOD OF ROBOT AND CONTROL PROGRAM OF ROBOT · Honda Motor Co., Ltd.
       用于标定机器人的运动学参数的方法和装置 · 华为技术有限公司
+      脚式移動ロボット及びその制御方法 · トヨタ自動車株式会社
+      Robot leg and robotic system · Max-Planck-Gesellschaft zur Förderung der Wissenschaften eV
+      Rotatable extension for robot foot · Schaft Inc
       六轴工业机器人负载参数辨识方法 · 沈阳新松机器人自动化股份有限公司
       机器人运动控制方法、机器人及系统 · 腾讯科技（深圳）有限公司
       跳远距离的获取方法、装置、设备及计算机可读存储介质 · 深圳市优必选科技股份有限公司
@@ -117,15 +131,21 @@ mindmap
       机器人重定位方法及装置、存储介质及电子装置 · 追觅创新科技（苏州）有限公司
       基于图像匹配的目标定位方法及装置 · 亿嘉和科技股份有限公司
       一种四足巡检机器人视觉纠偏矫正的方法和系统 · 浙江国自机器人技术股份有限公司
+      移動ロボットの移動制御方法、および、移動ロボット · トヨタ自動車株式会社
+      저가형 센서 기반의 자율주행을 위한 지역 의미론적 정보가 저장된 주행용 지도에서 레퍼런스 지역 경로 계획 방법 및 장치 · （주）뉴빌리티
       一种基于防爆化工轮式巡检机器人的路径规划方法 · 中信重工开诚智能装备有限公司
       基于多传感器融合SLAM和磁导的组合导航方法及存储介质 · 科大智能科技股份有限公司
+      Dispositivo de tracción para robot que comprende al menos una rueda motriz y un odómetro · Pal Robotics, S.L.
       MOBILE ROBOT DEVICE AND METHOD FOR CONTROLLING MOBILE ROBOT DEVICE · Samsung Electronics Co., Ltd.
+      Terrain Evaluation for robot locomotion · Schaft Inc
       基于图形码的机器人定位方法、装置、设备及存储介质 · 腾讯科技（深圳）有限公司
       VISUAL TEACH AND REPEAT MOBILE MANIPULATION SYSTEM · Toyota Research Institute, Inc.
       路径处理方法、装置、电子设备、计算机可读存储介质及计算机程序产品 · 深圳市优必选科技股份有限公司
       轨道机器人的定位方法、轨道机器人和可读存储介质 · 深圳优艾智合机器人科技有限公司
     Sim2Real & Data
+      Legged robot locomotion control trained in reinforcement learning based on heterogeneous environmental representations · Anybotics Ag
       加强学习方法、机器人和存储介质 · 深圳市越疆科技股份有限公司
+      Dual arm robot teaching from dual hand human demonstration · Fanuc Corporation
       人形机器人动作库数据处理方法及装置 · 上海傅利叶智能科技股份有限公司
       机器人装配方法、装置、非易失性存储介质和计算机设备 · 节卡机器人股份有限公司
       基于深度强化学习的机器人手臂运动控制策略网络训练方法及装置 · 深圳逐际动力科技有限公司
@@ -137,6 +157,7 @@ mindmap
     Tactile Sensing
       ADVANCED ARRAY OF SENSOR ASSEMBLIES OF A HUMANOID ROBOT · Figure AI, Inc.
       一种触觉传感器 · 北京因时机器人科技有限公司
+      接触型センサ · サイバーダイン株式会社
       一种基于卷积自编码器的轨道巡检机器人异常声音检测方法 · 中信重工开诚智能装备有限公司
       具备双模态感知功能的仿人机器人手指磁触觉传感器系统 · 灵心巧手（北京）科技有限公司、北京邮电大学
       多相机同步性能检测与标定系统、方法 · 上海穹彻智能科技有限公司
@@ -157,19 +178,19 @@ mindmap
 
 
 ## 目录
-- ⚙️ [Actuator &amp; Structure](#actuator--structure)（25）
-- 🤏 [Dexterous Manipulation](#dexterous-manipulation)（15）
-- 🛡️ [Human-Robot Safety](#human-robot-safety)（10）
-- 🔎 [Inspection Robotics](#inspection-robotics)（16）
-- 🦿 [Locomotion](#locomotion)（18）
-- 🧭 [Navigation &amp; SLAM](#navigation--slam)（14）
-- 🎲 [Sim2Real &amp; Data](#sim2real--data)（9）
-- 👆 [Tactile Sensing](#tactile-sensing)（9）
+- ⚙️ [Actuator &amp; Structure](#actuator--structure)（27）
+- 🤏 [Dexterous Manipulation](#dexterous-manipulation)（19）
+- 🛡️ [Human-Robot Safety](#human-robot-safety)（13）
+- 🔎 [Inspection Robotics](#inspection-robotics)（17）
+- 🦿 [Locomotion](#locomotion)（22）
+- 🧭 [Navigation &amp; SLAM](#navigation--slam)（18）
+- 🎲 [Sim2Real &amp; Data](#sim2real--data)（11）
+- 👆 [Tactile Sensing](#tactile-sensing)（10）
 - 🧠 [VLA Model](#vla-model)（8）
 
 
 <a id="actuator--structure"></a>
-## ⚙️ Actuator &amp; Structure(25)
+## ⚙️ Actuator &amp; Structure(27)
 
 > 关节执行器与结构：关节模组、准直驱、整机结构
 
@@ -184,11 +205,13 @@ mindmap
 | [下肢结构、连续关节结构以及机器人](https://patents.google.com/patent/CN121493132A) | CN121493132A | 星尘智能（深圳）有限公司 | 2026 |
 | [机器人关节减速电机及机器人](https://patents.google.com/patent/CN123054757A) | CN123054757A | 深圳市越疆科技股份有限公司 | 2026 |
 | [HIP ASSEMBLY AND KINEMATICS OF A HUMANOID ROBOT](https://patents.google.com/patent/WO2025213141A1) | WO2025213141A1 | Figure AI, Inc. | 2025 |
+| [Wave gear device](https://patents.google.com/patent/EP3795858A1) | EP3795858A1 | Harmonic Drive Systems Inc | 2021 |
 | [一种沿双圆管轨道运行巡检机器人的四驱磁吸轮驱动机构](https://patents.google.com/patent/CN121291626A) | CN121291626A | 中信重工开诚智能装备有限公司 |  |
 | [一种换流站阀厅巡检机器人使用的组合式轨道](https://patents.google.com/patent/CN117400222B) | CN117400222B | 科大智能科技股份有限公司 |  |
 | [一种变电站巡检机器人新型驱动转向装置](https://patents.google.com/patent/CN209739148U) | CN209739148U | 科大智能科技股份有限公司 |  |
 | [巡检机器人用轨道限位器及轨道限位系统](https://patents.google.com/patent/CN205854175U) | CN205854175U | 深圳市朗驰欣创科技股份有限公司 |  |
 | [致动器，关节模组及机器人](https://patents.google.com/patent/CN117103333B) | CN117103333B | 深圳逐际动力科技有限公司 | 2023 |
+| [Rotary actuator](https://patents.google.com/patent/US10400602B2) | US10400602B2 | Nabtesco Corporation | 2019 |
 | [中空内气管人形机械臂](https://patents.google.com/patent/CN122829795A) | CN122829795A | 上海穹彻智能科技有限公司 | 2026 |
 | [磁性绝对角度编码器和机器人](https://patents.google.com/patent/CN122858533A) | CN122858533A | 睿尔曼智能科技（北京）股份有限公司 | 2026 |
 | [清洁机器人及清洁系统](https://patents.google.com/patent/CN122701241A) | CN122701241A | 北京石头世纪科技股份有限公司 | 2026 |
@@ -202,7 +225,7 @@ mindmap
 | [关节模组和机器人](https://patents.google.com/patent/CN120862745B) | CN120862745B | 智元创新（上海）科技股份有限公司 | 2025 |
 
 <a id="dexterous-manipulation"></a>
-## 🤏 Dexterous Manipulation(15)
+## 🤏 Dexterous Manipulation(19)
 
 > 灵巧手与操作：抓取、柔性操作、多指控制
 
@@ -216,6 +239,10 @@ mindmap
 | [粘附设备和机器人](https://patents.google.com/patent/CN116277089B) | CN116277089B | 上海非夕机器人科技有限公司、非夕科技有限公司 | 2026 |
 | [用于力控制的控制信号振动抑制方法和计算机设备](https://patents.google.com/patent/CN116442239B) | CN116442239B | 上海非夕机器人科技有限公司、非夕科技有限公司 | 2026 |
 | [ROBOT HAND AND ROBOT HAND CONTROL METHOD](https://patents.google.com/patent/JP2023105585A) | JP2023105585A | Honda Motor Co., Ltd. | 2023 |
+| [ハンドシステム、ワーク保持方法、ワーク生産方法](https://patents.google.com/patent/JP2022131339A) | JP2022131339A | 株式会社安川電機 | 2021 |
+| [원형 디저트의 상면에 이미지를 드로잉하는 방법 및 이를 이용한 컴퓨팅 장치](https://patents.google.com/patent/KR20210112957A) | KR20210112957A | (주) 티로보틱스 | 2021 |
+| [Modular end effector](https://patents.google.com/patent/US11958188B2) | US11958188B2 | Deutsches Zentrum für Luft- und Raumfahrt eV | 2024 |
+| [双腕ロボットシステム](https://patents.google.com/patent/WO2022153994A1) | WO2022153994A1 | 川崎重工業株式会社 | 2022 |
 | [一种双臂机器人双臂协作内力的调节方法及系统](https://patents.google.com/patent/CN122829848A) | CN122829848A | 宁波均普人工智能与人形机器人研究院有限公司 | 2026 |
 | [面向精密装配的机器人灵巧手微力控制方法及系统](https://patents.google.com/patent/CN120269571A) | CN120269571A | 灵心巧手（北京）科技有限公司 | 2025 |
 | [巡检机器人末端旋拧工具使用方法](https://patents.google.com/patent/CN119658679A) | CN119658679A | 杭州申昊科技股份有限公司 |  |
@@ -225,25 +252,28 @@ mindmap
 | [灵巧手手指、灵巧手和机器人](https://patents.google.com/patent/CN120170772B) | CN120170772B | 智元创新（上海）科技股份有限公司 | 2025 |
 
 <a id="human-robot-safety"></a>
-## 🛡️ Human-Robot Safety(10)
+## 🛡️ Human-Robot Safety(13)
 
 > 人机交互与安全：碰撞检测、柔顺控制、安全策略
 
 | Patent | Number | Company | Year |
 |---|---|---|---|
+| [Worn movement assistance device](https://patents.google.com/patent/EP3156193B1) | EP3156193B1 | Cyberdyne Inc; University of Tsukuba | 2021 |
 | [基于增强现实的机器人操作方法、装置、存储介质](https://patents.google.com/patent/CN112650436A) | CN112650436A | 深圳市越疆科技股份有限公司 | 2021 |
 | [基于增强现实的机器人操作方法、装置和存储介质](https://patents.google.com/patent/CN112667138A) | CN112667138A | 深圳市越疆科技股份有限公司 | 2021 |
 | [基于增强现实的机器人操作方法、装置、设备和存储介质](https://patents.google.com/patent/CN112667139A) | CN112667139A | 深圳市越疆科技股份有限公司 | 2021 |
 | [机械臂碰撞检测系统、方法、机械臂、机器人及芯片](https://patents.google.com/patent/CN115351818B) | CN115351818B | 深圳市越疆科技股份有限公司 | 2026 |
 | [机器人零力拖拽的示教方法及系统](https://patents.google.com/patent/CN120921336B) | CN120921336B | 上海傅利叶智能科技股份有限公司 | 2025 |
+| [Device for monitoring at least one three-dimensional safety area](https://patents.google.com/patent/US9596451B2) | US9596451B2 | Fraunhofer-Gesellschaft zur Förderung der Angewandten Forschung eV; Otto-von-Guericke University Magdeburg | 2017 |
 | [一种机器人的反馈方法及机器人](https://patents.google.com/patent/CN115079684B) | CN115079684B | 华为技术有限公司 | 2021 |
+| [Ganzkörperimpedanz für mobile Roboter](https://patents.google.com/patent/DE102014226936B3) | DE102014226936B3 | Deutsches Zentrum für Luft- und Raumfahrt eV | 2016 |
 | [一种机械臂边界限制方法及系统](https://patents.google.com/patent/CN120347737A) | CN120347737A | 睿尔曼智能科技（江苏）有限公司 | 2025 |
 | [ROBOTS, TELE-OPERATION SYSTEMS, COMPUTER PROGRAM PRODUCTS, AND METHODS OF OPERATING THE SAME](https://patents.google.com/patent/WO2023164781A1) | WO2023164781A1 | Sanctuary Cognitive Systems Corporation (Sanctuary AI) | 2023 |
 | [SYSTEMS AND METHODS FOR CONDITIONAL ROBOTIC TELEOPERATION](https://patents.google.com/patent/WO2020077025A1) | WO2020077025A1 | Toyota Research Institute, Inc. | 2020 |
 | [机器人控制方法、装置、机器人遥控设备及存储介质](https://patents.google.com/patent/CN119489431B) | CN119489431B | 北京小米机器人技术有限公司 | 2023 |
 
 <a id="inspection-robotics"></a>
-## 🔎 Inspection Robotics(16)
+## 🔎 Inspection Robotics(17)
 
 > 巡检机器人：电力、轨道、隧道、化工等场景的巡检系统与装置
 
@@ -255,6 +285,7 @@ mindmap
 | [电力巡检嵌入式边缘智能系统及方法](https://patents.google.com/patent/CN113031484B) | CN113031484B | 国网智能科技股份有限公司 |  |
 | [一种挂轨式智能巡检机器人](https://patents.google.com/patent/CN118876029A) | CN118876029A | 浙江国自机器人技术股份有限公司 |  |
 | [高速铁路牵引所亭智能巡测系统](https://patents.google.com/patent/CN206031396U) | CN206031396U | 浙江国自机器人技术股份有限公司 |  |
+| [방폭 보행 로봇](https://patents.google.com/patent/KR20240166512A) | KR20240166512A | 애니보틱스 아게 | 2024 |
 | [一种基于钢轨导向的车底快速巡检机器人系统](https://patents.google.com/patent/CN121894001A) | CN121894001A | 南京景曜智能科技有限公司 |  |
 | [一种煤仓巡检装置](https://patents.google.com/patent/CN224839011U) | CN224839011U | 中信重工开诚智能装备有限公司 |  |
 | [基于巡检机器人变电站表计全覆盖的巡检系统](https://patents.google.com/patent/CN106896829B) | CN106896829B | 深圳市朗驰欣创科技股份有限公司 |  |
@@ -267,7 +298,7 @@ mindmap
 | [巡检机器人](https://patents.google.com/patent/CN222768434U) | CN222768434U | 深圳优艾智合机器人科技有限公司 |  |
 
 <a id="locomotion"></a>
-## 🦿 Locomotion(18)
+## 🦿 Locomotion(22)
 
 > 运动控制与平衡：步态规划、全身控制、动态平衡
 
@@ -278,10 +309,14 @@ mindmap
 | [TERRAIN AWARE STEP PLANNING SYSTEM](https://patents.google.com/patent/WO2020076418A1) | WO2020076418A1 | Boston Dynamics, Inc. | 2020 |
 | [SLIP HANDLING AND GROUND FRICTION ESTIMATION FOR ROBOTS](https://patents.google.com/patent/WO2021216261A1) | WO2021216261A1 | Boston Dynamics, Inc. | 2021 |
 | [一种机器人的上下底盘操作方法、装置、设备及存储介质](https://patents.google.com/patent/CN122807954B) | CN122807954B | 数字华夏（深圳）科技有限公司 | 2026 |
+| [Robot with an adaptive robotic foot](https://patents.google.com/patent/EP4232346B1) | EP4232346B1 | ETH Zurich (Eidgenössische Technische Hochschule Zürich); Qbrobotics Srl; University of Pisa; Italian Institute of Technology | 2024 |
 | [机器人轨迹控制方法及系统](https://patents.google.com/patent/CN121290443B) | CN121290443B | 上海傅利叶智能科技股份有限公司 | 2025 |
 | [防摔倒方法、装置及机器人](https://patents.google.com/patent/CN119871434B) | CN119871434B | 北京银河通用机器人股份有限公司 | 2025 |
 | [ROBOT, CONTROL METHOD OF ROBOT AND CONTROL PROGRAM OF ROBOT](https://patents.google.com/patent/US20080240889A1) | US20080240889A1 | Honda Motor Co., Ltd. | 2008 |
 | [用于标定机器人的运动学参数的方法和装置](https://patents.google.com/patent/CN116117785B) | CN116117785B | 华为技术有限公司 | 2021 |
+| [脚式移動ロボット及びその制御方法](https://patents.google.com/patent/JP2009107033A) | JP2009107033A | トヨタ自動車株式会社 | 2009 |
+| [Robot leg and robotic system](https://patents.google.com/patent/US12459113B2) | US12459113B2 | Max-Planck-Gesellschaft zur Förderung der Wissenschaften eV | 2025 |
+| [Rotatable extension for robot foot](https://patents.google.com/patent/US9994269B1) | US9994269B1 | Schaft Inc | 2018 |
 | [六轴工业机器人负载参数辨识方法](https://patents.google.com/patent/CN122185149A) | CN122185149A | 沈阳新松机器人自动化股份有限公司 | 2026 |
 | [机器人运动控制方法、机器人及系统](https://patents.google.com/patent/CN115179272B) | CN115179272B | 腾讯科技（深圳）有限公司 | 2021 |
 | [跳远距离的获取方法、装置、设备及计算机可读存储介质](https://patents.google.com/patent/CN115423825B) | CN115423825B | 深圳市优必选科技股份有限公司 | 2022 |
@@ -293,7 +328,7 @@ mindmap
 | [一种用于舵轮底盘的矢量控制方法及装置](https://patents.google.com/patent/CN119847134A) | CN119847134A | 星海图（苏州）人工智能科技有限公司 | 2025 |
 
 <a id="navigation--slam"></a>
-## 🧭 Navigation &amp; SLAM(14)
+## 🧭 Navigation &amp; SLAM(18)
 
 > 导航与 SLAM：定位建图、路径规划、场景理解
 
@@ -306,22 +341,28 @@ mindmap
 | [机器人重定位方法及装置、存储介质及电子装置](https://patents.google.com/patent/CN121661312A) | CN121661312A | 追觅创新科技（苏州）有限公司 | 2026 |
 | [基于图像匹配的目标定位方法及装置](https://patents.google.com/patent/CN115272659B) | CN115272659B | 亿嘉和科技股份有限公司 |  |
 | [一种四足巡检机器人视觉纠偏矫正的方法和系统](https://patents.google.com/patent/CN119336019A) | CN119336019A | 浙江国自机器人技术股份有限公司 |  |
+| [移動ロボットの移動制御方法、および、移動ロボット](https://patents.google.com/patent/WO2015087504A1) | WO2015087504A1 | トヨタ自動車株式会社 | 2015 |
+| [저가형 센서 기반의 자율주행을 위한 지역 의미론적 정보가 저장된 주행용 지도에서 레퍼런스 지역 경로 계획 방법 및 장치](https://patents.google.com/patent/WO2024214860A1) | WO2024214860A1 | (주)뉴빌리티 | 2024 |
 | [一种基于防爆化工轮式巡检机器人的路径规划方法](https://patents.google.com/patent/CN121252795A) | CN121252795A | 中信重工开诚智能装备有限公司 |  |
 | [基于多传感器融合SLAM和磁导的组合导航方法及存储介质](https://patents.google.com/patent/CN116026318B) | CN116026318B | 科大智能科技股份有限公司 |  |
+| [Dispositivo de tracción para robot que comprende al menos una rueda motriz y un odómetro](https://patents.google.com/patent/ES2350352A1) | ES2350352A1 | Pal Robotics, S.L. | 2011 |
 | [MOBILE ROBOT DEVICE AND METHOD FOR CONTROLLING MOBILE ROBOT DEVICE](https://patents.google.com/patent/WO2021101047A1) | WO2021101047A1 | Samsung Electronics Co., Ltd. | 2021 |
+| [Terrain Evaluation for robot locomotion](https://patents.google.com/patent/US10196104B1) | US10196104B1 | Schaft Inc | 2019 |
 | [基于图形码的机器人定位方法、装置、设备及存储介质](https://patents.google.com/patent/CN116993820B) | CN116993820B | 腾讯科技（深圳）有限公司 | 2022 |
 | [VISUAL TEACH AND REPEAT MOBILE MANIPULATION SYSTEM](https://patents.google.com/patent/WO2021016394A1) | WO2021016394A1 | Toyota Research Institute, Inc. | 2021 |
 | [路径处理方法、装置、电子设备、计算机可读存储介质及计算机程序产品](https://patents.google.com/patent/CN121323671B) | CN121323671B | 深圳市优必选科技股份有限公司 | 2025 |
 | [轨道机器人的定位方法、轨道机器人和可读存储介质](https://patents.google.com/patent/CN119774204A) | CN119774204A | 深圳优艾智合机器人科技有限公司 |  |
 
 <a id="sim2real--data"></a>
-## 🎲 Sim2Real &amp; Data(9)
+## 🎲 Sim2Real &amp; Data(11)
 
 > 仿真训练与数据合成：sim2real 迁移、数据采集与蒸馏
 
 | Patent | Number | Company | Year |
 |---|---|---|---|
+| [Legged robot locomotion control trained in reinforcement learning based on heterogeneous environmental representations](https://patents.google.com/patent/US20250328146A1) | US20250328146A1 | Anybotics Ag | 2025 |
 | [加强学习方法、机器人和存储介质](https://patents.google.com/patent/CN109591012A) | CN109591012A | 深圳市越疆科技股份有限公司 | 2019 |
+| [Dual arm robot teaching from dual hand human demonstration](https://patents.google.com/patent/US12179350B2) | US12179350B2 | Fanuc Corporation | 2024 |
 | [人形机器人动作库数据处理方法及装置](https://patents.google.com/patent/CN121200088B) | CN121200088B | 上海傅利叶智能科技股份有限公司 | 2025 |
 | [机器人装配方法、装置、非易失性存储介质和计算机设备](https://patents.google.com/patent/CN122975633A) | CN122975633A | 节卡机器人股份有限公司 | 2026 |
 | [基于深度强化学习的机器人手臂运动控制策略网络训练方法及装置](https://patents.google.com/patent/CN121200037B) | CN121200037B | 深圳逐际动力科技有限公司 | 2025 |
@@ -332,7 +373,7 @@ mindmap
 | [SYSTEM AND METHOD FOR UNKNOWN OBJECT MANIPULATION FROM PURE SYNTHETIC STEREO DATA](https://patents.google.com/patent/US20230398692A1) | US20230398692A1 | Toyota Research Institute, Inc. | 2023 |
 
 <a id="tactile-sensing"></a>
-## 👆 Tactile Sensing(9)
+## 👆 Tactile Sensing(10)
 
 > 触觉与传感：触觉皮肤、力觉感知、多模态传感
 
@@ -340,6 +381,7 @@ mindmap
 |---|---|---|---|
 | [ADVANCED ARRAY OF SENSOR ASSEMBLIES OF A HUMANOID ROBOT](https://patents.google.com/patent/WO2025221916A1) | WO2025221916A1 | Figure AI, Inc. | 2025 |
 | [一种触觉传感器](https://patents.google.com/patent/CN120313771B) | CN120313771B | 北京因时机器人科技有限公司 | 2025 |
+| [接触型センサ](https://patents.google.com/patent/JP6435143B2) | JP6435143B2 | サイバーダイン株式会社 | 2014 |
 | [一种基于卷积自编码器的轨道巡检机器人异常声音检测方法](https://patents.google.com/patent/CN119296580A) | CN119296580A | 中信重工开诚智能装备有限公司 |  |
 | [具备双模态感知功能的仿人机器人手指磁触觉传感器系统](https://patents.google.com/patent/CN120307353A) | CN120307353A | 灵心巧手（北京）科技有限公司、北京邮电大学 | 2025 |
 | [多相机同步性能检测与标定系统、方法](https://patents.google.com/patent/CN122640541A) | CN122640541A | 上海穹彻智能科技有限公司 | 2026 |
