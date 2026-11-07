@@ -373,3 +373,4 @@ mindmap
 
 1. 在 [data](data) 目录新增一个 YAML 文件（如 `data/unitree-locomotion-1.yaml`），**请勿直接编辑 README.md**
 2. `kind` 请使用现有技术领域分类，README 由 [generator workflow](.github/workflows/generator.yaml) 自动重新生成
+3. 专利检索与核验的可用途径见 [RESEARCH.md](RESEARCH.md)
