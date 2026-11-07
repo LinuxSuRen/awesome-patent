@@ -22,11 +22,11 @@ year: 2014
 | `link` | ✅ | Google Patents 链接，统一使用 `https://patents.google.com/patent/<公开号>` 格式 |
 | `kind` | ✅ | 技术领域分类，必须使用下方现有分类之一 |
 | `creator` | ✅ | 申请人/受让人（公司维度） |
-| `year` | ✅ | 公开年份 |
+| `year` | 可选 | 公开年份 |
 
 ## 技术领域（kind）白名单
 
-`Locomotion`、`Dexterous Manipulation`、`VLA Model`、`Tactile Sensing`、`Navigation & SLAM`、`Sim2Real & Data`、`Human-Robot Safety`、`Actuator & Structure`
+`Locomotion`、`Dexterous Manipulation`、`VLA Model`、`Tactile Sensing`、`Navigation & SLAM`、`Sim2Real & Data`、`Human-Robot Safety`、`Actuator & Structure`、`Inspection Robotics`
 
 ## 注意事项
 

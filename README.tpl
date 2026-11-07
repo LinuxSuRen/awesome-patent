@@ -1,7 +1,7 @@
 #!yaml-readme -p data/*.yaml --output README.md --group-by kind
 
-{{- $icons := dict "Locomotion" "🦿" "Dexterous Manipulation" "🤏" "VLA Model" "🧠" "Tactile Sensing" "👆" "Navigation & SLAM" "🧭" "Sim2Real & Data" "🎲" "Human-Robot Safety" "🛡️" "Actuator & Structure" "⚙️"}}
-{{- $descs := dict "Locomotion" "运动控制与平衡：步态规划、全身控制、动态平衡" "Dexterous Manipulation" "灵巧手与操作：抓取、柔性操作、多指控制" "VLA Model" "具身大模型与 VLA：视觉-语言-动作策略、任务规划" "Tactile Sensing" "触觉与传感：触觉皮肤、力觉感知、多模态传感" "Navigation & SLAM" "导航与 SLAM：定位建图、路径规划、场景理解" "Sim2Real & Data" "仿真训练与数据合成：sim2real 迁移、数据采集与蒸馏" "Human-Robot Safety" "人机交互与安全：碰撞检测、柔顺控制、安全策略" "Actuator & Structure" "关节执行器与结构：关节模组、准直驱、整机结构"}}
+{{- $icons := dict "Locomotion" "🦿" "Dexterous Manipulation" "🤏" "VLA Model" "🧠" "Tactile Sensing" "👆" "Navigation & SLAM" "🧭" "Sim2Real & Data" "🎲" "Human-Robot Safety" "🛡️" "Actuator & Structure" "⚙️" "Inspection Robotics" "🔎"}}
+{{- $descs := dict "Locomotion" "运动控制与平衡：步态规划、全身控制、动态平衡" "Dexterous Manipulation" "灵巧手与操作：抓取、柔性操作、多指控制" "VLA Model" "具身大模型与 VLA：视觉-语言-动作策略、任务规划" "Tactile Sensing" "触觉与传感：触觉皮肤、力觉感知、多模态传感" "Navigation & SLAM" "导航与 SLAM：定位建图、路径规划、场景理解" "Sim2Real & Data" "仿真训练与数据合成：sim2real 迁移、数据采集与蒸馏" "Human-Robot Safety" "人机交互与安全：碰撞检测、柔顺控制、安全策略" "Actuator & Structure" "关节执行器与结构：关节模组、准直驱、整机结构" "Inspection Robotics" "巡检机器人：电力、轨道、隧道、化工等场景的巡检系统与装置"}}
 {{- $total := 0}}
 {{- range $key, $val := .}}
 {{- $total = add $total (len $val)}}
@@ -39,7 +39,7 @@
 | Patent | Number | Company | Year |
 |---|---|---|---|
 {{- range $item := $val}}
-| [{{$item.name}}]({{$item.link}}) | {{$item.number}} | {{$item.creator}} | {{$item.year}} |
+| [{{$item.name}}]({{$item.link}}) | {{$item.number}} | {{$item.creator}} | {{if $item.year}}{{$item.year}}{{end}} |
 {{- end}}
 {{end}}
 
