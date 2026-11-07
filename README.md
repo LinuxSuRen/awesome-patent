@@ -7,7 +7,7 @@
 
 [![Stars](https://img.shields.io/github/stars/LinuxSuRen/awesome-patent?style=flat-square)](https://github.com/LinuxSuRen/awesome-patent/stargazers)
 [![Last Commit](https://img.shields.io/github/last-commit/LinuxSuRen/awesome-patent?style=flat-square)](https://github.com/LinuxSuRen/awesome-patent/commits)
-[![Patents](https://img.shields.io/github/badge/patents-53-blue?style=flat-square)](#目录)
+[![Patents](https://img.shields.io/github/badge/patents-54-blue?style=flat-square)](#目录)
 [![License](https://img.shields.io/badge/license-MIT-green?style=flat-square)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square)](CONTRIBUTING.md)
 
@@ -69,6 +69,7 @@ mindmap
       一种四足巡检机器人视觉纠偏矫正的方法和系统 · 浙江国自机器人技术股份有限公司
       一种基于防爆化工轮式巡检机器人的路径规划方法 · 中信重工开诚智能装备有限公司
       基于多传感器融合SLAM和磁导的组合导航方法及存储介质 · 科大智能科技股份有限公司
+      一种三维拓扑地图的机器人感知与自主导航方法及系统 · Guangzhou Moju Technology Co Ltd
       基于图形码的机器人定位方法、装置、设备及存储介质 · 腾讯科技（深圳）有限公司
       路径处理方法、装置、电子设备、计算机可读存储介质及计算机程序产品 · 深圳市优必选科技股份有限公司
       轨道机器人的定位方法、轨道机器人和可读存储介质 · 深圳优艾智合机器人科技有限公司
@@ -89,7 +90,7 @@ mindmap
 - 🛡️ [Human-Robot Safety](#human-robot-safety)（3）
 - 🔎 [Inspection Robotics](#inspection-robotics)（16）
 - 🦿 [Locomotion](#locomotion)（9）
-- 🧭 [Navigation &amp; SLAM](#navigation--slam)（7）
+- 🧭 [Navigation &amp; SLAM](#navigation--slam)（8）
 - 🎲 [Sim2Real &amp; Data](#sim2real--data)（2）
 - 👆 [Tactile Sensing](#tactile-sensing)（2）
 - 🧠 [VLA Model](#vla-model)（1）
@@ -177,7 +178,7 @@ mindmap
 | [轨迹生成方法、装置、机器人及存储介质](https://patents.google.com/patent/CN118288299B) | CN118288299B | 北京小米机器人技术有限公司 | 2022 |
 
 <a id="navigation--slam"></a>
-## 🧭 Navigation &amp; SLAM(7)
+## 🧭 Navigation &amp; SLAM(8)
 
 > 导航与 SLAM：定位建图、路径规划、场景理解
 
@@ -187,6 +188,7 @@ mindmap
 | [一种四足巡检机器人视觉纠偏矫正的方法和系统](https://patents.google.com/patent/CN119336019A) | CN119336019A | 浙江国自机器人技术股份有限公司 |  |
 | [一种基于防爆化工轮式巡检机器人的路径规划方法](https://patents.google.com/patent/CN121252795A) | CN121252795A | 中信重工开诚智能装备有限公司 |  |
 | [基于多传感器融合SLAM和磁导的组合导航方法及存储介质](https://patents.google.com/patent/CN116026318B) | CN116026318B | 科大智能科技股份有限公司 |  |
+| [一种三维拓扑地图的机器人感知与自主导航方法及系统](https://patents.google.com/patent/CN121207173A) | CN121207173A | Guangzhou Moju Technology Co Ltd | 2025 |
 | [基于图形码的机器人定位方法、装置、设备及存储介质](https://patents.google.com/patent/CN116993820B) | CN116993820B | 腾讯科技（深圳）有限公司 | 2022 |
 | [路径处理方法、装置、电子设备、计算机可读存储介质及计算机程序产品](https://patents.google.com/patent/CN121323671B) | CN121323671B | 深圳市优必选科技股份有限公司 | 2025 |
 | [轨道机器人的定位方法、轨道机器人和可读存储介质](https://patents.google.com/patent/CN119774204A) | CN119774204A | 深圳优艾智合机器人科技有限公司 |  |
