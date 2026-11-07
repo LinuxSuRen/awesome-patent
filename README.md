@@ -5,6 +5,8 @@
 
 **具身智能（Embodied AI）专利精选：按技术领域与公司两个维度收录人形机器人、操作大模型、灵巧手等方向的代表性专利，持续更新**
 
+已收录 **80** 条专利 · 覆盖 **33** 家公司 / 机构 · **9** 个技术领域分类（见[目录](#目录)）
+
 [![Stars](https://img.shields.io/github/stars/LinuxSuRen/awesome-patent?style=flat-square)](https://github.com/LinuxSuRen/awesome-patent/stargazers)
 [![Last Commit](https://img.shields.io/github/last-commit/LinuxSuRen/awesome-patent?style=flat-square)](https://github.com/LinuxSuRen/awesome-patent/commits)
 [![Patents](https://img.shields.io/github/badge/patents-80-blue?style=flat-square)](#目录)
