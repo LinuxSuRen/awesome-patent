@@ -5,11 +5,11 @@
 
 **具身智能（Embodied AI）专利精选：按技术领域与公司两个维度收录人形机器人、操作大模型、灵巧手等方向的代表性专利，持续更新**
 
-已收录 **377** 条专利 · 覆盖 **62** 家公司 / 机构 · **9** 个技术领域分类（见[目录](#目录)）
+已收录 **454** 条专利 · 覆盖 **67** 家公司 / 机构 · **9** 个技术领域分类（见[目录](#目录)）
 
 [![Stars](https://img.shields.io/github/stars/LinuxSuRen/awesome-patent?style=flat-square)](https://github.com/LinuxSuRen/awesome-patent/stargazers)
 [![Last Commit](https://img.shields.io/github/last-commit/LinuxSuRen/awesome-patent?style=flat-square)](https://github.com/LinuxSuRen/awesome-patent/commits)
-[![Patents](https://img.shields.io/github/badge/patents-377-blue?style=flat-square)](#目录)
+[![Patents](https://img.shields.io/github/badge/patents-454-blue?style=flat-square)](#目录)
 [![License](https://img.shields.io/badge/license-MIT-green?style=flat-square)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square)](CONTRIBUTING.md)
 
@@ -37,6 +37,11 @@ mindmap
       巡检机器人（SI300） · 亿嘉和科技股份有限公司
       清洁机器人（J36） · 亿嘉和科技股份有限公司
       HIP ASSEMBLY AND KINEMATICS OF A HUMANOID ROBOT · Figure AI, Inc.
+      轮足机器人及轮足移动终端 · 广州汽车集团股份有限公司
+      机械腿、轮足机器人及轮足移动终端 · 广州汽车集团股份有限公司
+      机械腿、轮足机器人及轮足移动终端 · 广州汽车集团股份有限公司
+      一种机器人底盘结构、机器人 · 广州汽车集团股份有限公司
+      一种头部云台及智能移动终端 · 广州汽车集团股份有限公司
       一种沿双圆管轨道运行巡检机器人的四驱磁吸轮驱动机构 · 中信重工开诚智能装备有限公司
       一种换流站阀厅巡检机器人使用的组合式轨道 · 科大智能科技股份有限公司
       一种变电站巡检机器人新型驱动转向装置 · 科大智能科技股份有限公司
@@ -59,7 +64,21 @@ mindmap
       巡检机器人（青舟） · 北京可安可智能科技有限公司
       巡检机器人用轨道限位器及轨道限位系统 · 深圳市朗驰欣创科技股份有限公司
       致动器，关节模组及机器人 · 深圳逐际动力科技有限公司
+      一种抗高温机器人隔热方法 · 北京凌天智能装备集团股份有限公司
+      一种抗干扰的多频段自适应无线通信控制方法及系统 · 北京凌天智能装备集团股份有限公司
+      一种辅助运输消防四足机器人 · 北京凌天智能装备集团股份有限公司
+      一种可快速更换电池的灭火四足机器人 · 北京凌天智能装备集团股份有限公司
+      一种带有自扶正结构的机器人用通讯装置 · 北京凌天智能装备集团股份有限公司
       中空内气管人形机械臂 · 上海穹彻智能科技有限公司
+      一种轨道式灭火机器人的灭火弹自动更换装置及其更换方法 · 重庆七腾机器人科技有限公司
+      一种双减速髋部模块及其组成的防爆人形机器人 · 重庆七腾机器人科技有限公司
+      一种悬挂可调节大负载全向底盘及其组成的防爆人形机器人 · 重庆七腾机器人科技有限公司
+      一种防爆四轮足式机器人 · 重庆七腾机器人科技有限公司
+      一种轻量化机身模块及其组成的防爆四轮足式机器人 · 重庆七腾机器人科技有限公司
+      一种轮腿模块及其组成的防爆四轮足式机器人 · 重庆七腾机器人科技有限公司
+      一种轮足快换模块及其组成的防爆四足式机器人 · 重庆七腾机器人科技有限公司
+      防爆四足式机器人 · 重庆七腾机器人科技有限公司
+      防爆四轮足式机器人 · 重庆七腾机器人科技有限公司
       磁性绝对角度编码器和机器人 · 睿尔曼智能科技（北京）股份有限公司
       清洁机器人及清洁系统 · 北京石头世纪科技股份有限公司
       人形机器人的腿部结构和具有其的人形机器人 · 北京星动纪元科技有限公司
@@ -72,6 +91,9 @@ mindmap
       基于张拉整体结构的可变形轮足结构、机器人及工作方法 · 杭州申昊科技股份有限公司
       一种运维机器人充电桩及充电接口 · 杭州申昊科技股份有限公司
       一种机器人的可快拆式运动底盘 · 杭州申昊科技股份有限公司
+      一种巡检机器人及其底盘 · 北京史河科技有限公司
+      一种巡检机器人及其底盘 · 北京史河科技有限公司
+      巡检机器人 · 北京史河科技有限公司
       头部转动装置及机器人 · 松延动力（北京）科技有限公司
       一种机器人并联同轴输出关节模组 · 北京松延动力科技集团股份有限公司
       SYSTEMS AND METHODS FOR A ROBOT KNEE JOINT ASSEMBLY · Tesla, Inc.
@@ -99,12 +121,14 @@ mindmap
       一种人形机器人包装结构、包装方法和使用方法 · 杭州宇树科技有限公司
       一种带有航座可容纳多台无人机的四足机器人 · 杭州云深处科技股份有限公司
       轴系组件、转动机构和机器人 · 深圳璇玑动力科技有限公司
+      定子总成以及电机定子加工方法和设备 · 深圳璇玑动力科技有限公司
       四足机器人回充定位方法、装置、机器人及介质 · 深圳璇玑动力科技有限公司
       一种机器人回充定位方法、装置、足式机器人及存储介质 · 深圳璇玑动力科技有限公司
       一种模块化的四足机器人 · 深圳璇玑动力科技有限公司
       足式机器人、充电桩及充电系统 · 深圳璇玑动力科技有限公司
       一种机器人制造用双面自动点焊机 · 深圳璇玑动力科技有限公司
       主从站通信链路自愈方法、装置、设备及存储介质 · 深圳璇玑动力科技有限公司
+      关节模组 · 深圳璇玑动力科技有限公司
       一种电机 · 深圳璇玑动力科技有限公司
       定子绕组、定子组件和电机 · 深圳璇玑动力科技有限公司
       接线排、定子组件和电机 · 深圳璇玑动力科技有限公司
@@ -123,6 +147,14 @@ mindmap
       挂轨机器人的无线充电方法和装置、电子设备及存储介质 · 优艾智合机器人科技有限公司
       可安装在机器人上的视觉识别装置及机器人 · 优艾智合机器人科技有限公司
       人形机器人（隙锋） · 优艾智合机器人科技有限公司
+      一种机器人充电装置及其充电方法 · 越甲灵动（深圳）科技有限公司
+      一种抗高冲击的机器人关节 · 越甲灵动（深圳）科技有限公司
+      一种四足机器人机身结构 · 越甲灵动（深圳）科技有限公司
+      机器人（小型四足） · 越甲灵动（深圳）科技有限公司
+      四足机器人小腿（轮式） · 越甲灵动（深圳）科技有限公司
+      四足机器人（足式） · 越甲灵动（深圳）科技有限公司
+      四足机器人（足式） · 越甲灵动（深圳）科技有限公司
+      四足机器人的腿（轮式） · 越甲灵动（深圳）科技有限公司
       一种携带救援机器人的载具 · 杭州云深处科技股份有限公司
       四足机器人驱动电路快拆机构和驱动电路的快拆方法 · 杭州云深处科技股份有限公司
       四足机器人的百叶可调式镜片 · 杭州云深处科技股份有限公司
@@ -159,10 +191,17 @@ mindmap
       KINEMATICS OF A MECHANICAL END EFFECTOR FOR A HUMANOID ROBOT · Figure AI, Inc.
       粘附设备和机器人 · 上海非夕机器人科技有限公司、非夕科技有限公司
       用于力控制的控制信号振动抑制方法和计算机设备 · 上海非夕机器人科技有限公司、非夕科技有限公司
+      臂型角计算方法、装置、系统及设备 · 广州汽车集团股份有限公司
       ROBOT HAND AND ROBOT HAND CONTROL METHOD · Honda Motor Co., Ltd.
       一种双臂机器人双臂协作内力的调节方法及系统 · 宁波均普人工智能与人形机器人研究院有限公司
       一种巡检机器人机械手臂 · 北京可安可智能科技有限公司
+      一种具备自防护效果的双臂排爆机器人 · 北京凌天智能装备集团股份有限公司
+      兼具高通过性与灵巧作业能力的双臂人形应急救援机器人 · 北京凌天智能装备集团股份有限公司
+      一种旋转伸缩机械臂抓取转移的远程控制排爆机器人 · 北京凌天智能装备集团股份有限公司
       面向精密装配的机器人灵巧手微力控制方法及系统 · 灵心巧手（北京）科技有限公司
+      一种防爆人形机器人的多层末端快换系统、末端执行器及人形机器人 · 重庆七腾机器人科技有限公司
+      基于虚拟安全机制的人形机器人柔顺协同搬运方法及系统 · 重庆七腾机器人科技有限公司
+      一种基于自适应力控的人形机器人双臂随动协同控制方法 · 重庆七腾机器人科技有限公司
       一种巡检机器人末端旋拧工具使用方法 · 杭州申昊科技股份有限公司
       一种末端工具改进的巡检机器人 · 杭州申昊科技股份有限公司
       线缆夹举方法及装置、电子设备 · 杭州申昊科技股份有限公司
@@ -224,6 +263,18 @@ mindmap
       变电站巡检机器人及电力设备接地故障检测方法 · 深圳市朗驰欣创科技股份有限公司
       一种巡检系统、方法、终端和存储介质 · 深圳市朗驰欣创科技股份有限公司
       一种铁路牵引站巡检机器人 · 深圳市朗驰欣创科技股份有限公司
+      一种消防机器人灭火方法、系统、介质及其程序产品 · 北京凌天智能装备集团股份有限公司
+      一种矿用履带式应急排水机器人 · 北京凌天智能装备集团股份有限公司
+      一种基于双摆臂底盘的多地形自适应排爆机器人 · 北京凌天智能装备集团股份有限公司
+      一种耐高温消防灭火机器人 · 北京凌天智能装备集团股份有限公司
+      一种多功能消防灭火救援机器人 · 北京凌天智能装备集团股份有限公司
+      一种双履带与低重心防倾覆作业的轻型排爆机器人 · 北京凌天智能装备集团股份有限公司
+      一种小空间精细处置用轻型排爆机器人 · 北京凌天智能装备集团股份有限公司
+      一种排爆四足机器人 · 北京凌天智能装备集团股份有限公司
+      一种消防侦察四足机器人 · 北京凌天智能装备集团股份有限公司
+      一种用于风电机舱巡检机器人的轨道供电系统 · 重庆七腾机器人科技有限公司
+      一种基于动作并发执行的巡检方法及巡检机器人 · 重庆七腾机器人科技有限公司
+      基于短期密集级联网络的焦炉交换考克快速巡检方法 · 重庆七腾机器人科技有限公司
       一种高空除冰巡检机器人 · 杭州申昊科技股份有限公司
       一种轨道巡检机器人的行走机构 · 杭州申昊科技股份有限公司
       架空线路行走机器人电池加热管理系统及电池加热控制方法 · 杭州申昊科技股份有限公司
@@ -239,6 +290,8 @@ mindmap
       一种多级电缆除冰机器人及分级除冰方法 · 杭州申昊科技股份有限公司
       一种夹持式电缆除冰机器人的控制方法及设备 · 杭州申昊科技股份有限公司
       一种可快拆的传感器安装结构及巡检机器人 · 杭州申昊科技股份有限公司
+      一种磁吸附巡检机器人及其控制方法 · 北京史河科技有限公司
+      塔筒自动巡检机器人 · 北京史河科技有限公司
       一种针对管廊场景的特征强化地图生成方法和设备 · 杭州宇树科技有限公司
       一种智能轨道巡检机器人 · 深圳信通环球科技有限公司
       一种智能光伏运维管控系统 · 深圳璇玑动力科技有限公司
@@ -255,6 +308,8 @@ mindmap
       巡检机器人的部署方法、巡检机器人、装置及存储介质 · 优艾智合机器人科技有限公司
       基于机器人的巡检方法、装置、机器人及介质 · 优艾智合机器人科技有限公司
       地刀测试方法及设备、计算机可读存储介质 · 优艾智合机器人科技有限公司
+      一种基于AI视觉的四足机器人自主巡检方法及系统 · 越甲灵动（深圳）科技有限公司
+      基于风险识别的四足机器人智能巡检方法及系统 · 越甲灵动（深圳）科技有限公司
       一种便捷移动式图像信息采集装置 · 杭州云深处科技股份有限公司
     Locomotion
       一种人形机器人的小腿机构 · 北京加速进化科技有限公司
@@ -264,10 +319,19 @@ mindmap
       一种机器人的上下底盘操作方法、装置、设备及存储介质 · 数字华夏（深圳）科技有限公司
       一种基于人体动作采集的人形机器人全身控制方法 · 亿嘉和科技股份有限公司
       机器人轨迹控制方法及系统 · 上海傅利叶智能科技股份有限公司
+      一种机器人及其控制方法和控制装置 · 广州汽车集团股份有限公司
+      机械腿、轮足机器人、轮足移动终端及模式切换方法 · 广州汽车集团股份有限公司
       防摔倒方法、装置及机器人 · 北京银河通用机器人股份有限公司
       ROBOT, CONTROL METHOD OF ROBOT AND CONTROL PROGRAM OF ROBOT · Honda Motor Co., Ltd.
       用于标定机器人的运动学参数的方法和装置 · 华为技术有限公司
       用于机器人行走控制的数据处理方法和装置 · 北京可安可智能科技有限公司
+      基于油电混合动力的救援物资运输跟随机器人及控制方法 · 北京凌天智能装备集团股份有限公司
+      一种全向地形自适应轮式机器人底盘的控制方法及系统 · 重庆七腾机器人科技有限公司
+      基于强化学习与NMPC-WBC的四轮足式机器人自适应控制方法 · 重庆七腾机器人科技有限公司
+      分层VMC融合轮足约束WBC的四轮足式机器人控制方法及系统 · 重庆七腾机器人科技有限公司
+      基于安全屏障函数与多模态观测的四轮足式机器人强化学习控制方法及系统 · 重庆七腾机器人科技有限公司
+      基于先验知识和强化学习的四轮足式机器人双模式控制方法及机器人 · 重庆七腾机器人科技有限公司
+      一种面向机器人律动的自适应控制方法及系统 · 重庆七腾机器人科技有限公司
       一种轮式机器人 · 杭州申昊科技股份有限公司
       一种水下作业四足机器人 · 杭州申昊科技股份有限公司
       一种腿橇式沙漠机器人 · 杭州申昊科技股份有限公司
@@ -324,6 +388,10 @@ mindmap
       机器人自主探索方法和装置 · 北京可安可智能科技有限公司
       用于低速无人驾驶路径规划的数据处理方法和装置 · 北京可安可智能科技有限公司
       巡检机器人智能导航方法及装置 · 北京可安可智能科技有限公司
+      基于AOA定位的UWB单芯片机器人自动跟随系统 · 北京凌天智能装备集团股份有限公司
+      机器人多传感器信息融合视频显示方法、装置、系统和存储介质 · 重庆七腾机器人科技有限公司
+      一种轨道机器人位置偏移自动校准的方法 · 重庆七腾机器人科技有限公司
+      融合对抗运动先验与软着陆惩罚的四足机器人端到端导航控制方法及系统 · 重庆七腾机器人科技有限公司
       MOBILE ROBOT DEVICE AND METHOD FOR CONTROLLING MOBILE ROBOT DEVICE · Samsung Electronics Co., Ltd.
       地图更新方法、装置、电子设备和存储介质 · 杭州申昊科技股份有限公司
       针对半封闭复杂环境的多机器人任务分配及电量管理系统 · 杭州申昊科技股份有限公司
@@ -363,11 +431,17 @@ mindmap
       多模态的穿戴式人形机器人数据采集和遥操系统 · 亿嘉和科技股份有限公司
       一种用于配网带电作业的遥操作机器人系统及作业方法 · 亿嘉和科技股份有限公司
       人形机器人动作库数据处理方法及装置 · 上海傅利叶智能科技股份有限公司
+      一种机器人控制方法、装置、手柄及系统 · 广州汽车集团股份有限公司
+      一种机器人远程操控系统、方法、存储介质及计算机程序产品 · 广州汽车集团股份有限公司
       机器人装配方法、装置、非易失性存储介质和计算机设备 · 节卡机器人股份有限公司
       基于深度强化学习的机器人手臂运动控制策略网络训练方法及装置 · 深圳逐际动力科技有限公司
       SIMULATION AND REINFORCEMENT LEARNING TECHNIQUES FOR PERFORMING ROBOTIC TASKS · NVIDIA Corporation
       SIM-TO-REAL REINFORCEMENT LEARNING FOR VISION-BASED DEXTEROUS MANIPULATION ON HUMANOIDS · NVIDIA Corporation
       一种训练样本的物体位姿标注方法、装置及系统 · 帕西尼感知科技（深圳）有限公司
+      一种力补偿机制的人形机器人双边力反馈遥操作方法 · 重庆七腾机器人科技有限公司
+      一种支持遥操作机器人的远程控制驾驶座舱系统、控制方法及其组成的防爆机器人 · 重庆七腾机器人科技有限公司
+      一种防爆人形机器人5G跨域低时延远程控制系统及方法 · 重庆七腾机器人科技有限公司
+      一种基于ROS2的异构遥操作虚实协同控制方法及系统 · 重庆七腾机器人科技有限公司
       SYNTHETIC ROBOT DATA GENERATION AND MODEL TRAINING WITH THE SYNTHETIC ROBOT DATA · Sanctuary Cognitive Systems Corporation （Sanctuary AI）
       SYSTEM AND METHOD FOR UNKNOWN OBJECT MANIPULATION FROM PURE SYNTHETIC STEREO DATA · Toyota Research Institute, Inc.
       一种基于操控员足部位姿传感器的四足机器人遥操作方法 · 杭州宇树科技有限公司
@@ -386,6 +460,7 @@ mindmap
       ADVANCED ARRAY OF SENSOR ASSEMBLIES OF A HUMANOID ROBOT · Figure AI, Inc.
       一种触觉传感器 · 北京因时机器人科技有限公司
       一种基于卷积自编码器的轨道巡检机器人异常声音检测方法 · 中信重工开诚智能装备有限公司
+      一种耐高温消防机器人测温传感器结构 · 北京凌天智能装备集团股份有限公司
       具备双模态感知功能的仿人机器人手指磁触觉传感器系统 · 灵心巧手（北京）科技有限公司、北京邮电大学
       多相机同步性能检测与标定系统、方法 · 上海穹彻智能科技有限公司
       机器人灵巧手的表面接触力解算方法及触觉指尖 · 上海穹彻智能科技有限公司
@@ -401,6 +476,8 @@ mindmap
       服务于电力机器人的人工智能系统及方法 · 国网智能科技股份有限公司
       机器人控制方法、装置及电子设备 · 节卡机器人股份有限公司
       基于域控制的巡检VLA长任务控制调度方法及装置 · 南京江行联加智能科技有限公司
+      基于多模态大模型的巡检机器人工业巡检异常识别方法 · 重庆七腾机器人科技有限公司
+      一种工业具身智能控制方法、模型训练方法及系统 · 重庆七腾机器人科技有限公司
       SYSTEMS, METHODS, AND COMPUTER PROGRAM PRODUCTS FOR HIERARCHICAL MULTI-AGENT GOAL-SEEKING · Sanctuary Cognitive Systems Corporation （Sanctuary AI）
       一种基于大模型驱动的智慧化病房多模态机器人系统 · 杭州申昊科技股份有限公司
       数字永生方法、系统、设备、存储介质和智能身外化身 · 杭州宇树科技有限公司
@@ -410,19 +487,19 @@ mindmap
 
 
 ## 目录
-- ⚙️ [Actuator &amp; Structure](#actuator--structure)（124）
-- 🤏 [Dexterous Manipulation](#dexterous-manipulation)（36）
+- ⚙️ [Actuator &amp; Structure](#actuator--structure)（156）
+- 🤏 [Dexterous Manipulation](#dexterous-manipulation)（43）
 - 🛡️ [Human-Robot Safety](#human-robot-safety)（11）
-- 🔎 [Inspection Robotics](#inspection-robotics)（61）
-- 🦿 [Locomotion](#locomotion)（49）
-- 🧭 [Navigation &amp; SLAM](#navigation--slam)（51）
-- 🎲 [Sim2Real &amp; Data](#sim2real--data)（23）
-- 👆 [Tactile Sensing](#tactile-sensing)（10）
-- 🧠 [VLA Model](#vla-model)（12）
+- 🔎 [Inspection Robotics](#inspection-robotics)（77）
+- 🦿 [Locomotion](#locomotion)（58）
+- 🧭 [Navigation &amp; SLAM](#navigation--slam)（55）
+- 🎲 [Sim2Real &amp; Data](#sim2real--data)（29）
+- 👆 [Tactile Sensing](#tactile-sensing)（11）
+- 🧠 [VLA Model](#vla-model)（14）
 
 
 <a id="actuator--structure"></a>
-## ⚙️ Actuator &amp; Structure(124)
+## ⚙️ Actuator &amp; Structure(156)
 
 > 关节执行器与结构：关节模组、准直驱、整机结构
 
@@ -444,6 +521,11 @@ mindmap
 | [巡检机器人（SI300）](https://patents.google.com/patent/CN310032890S) | CN310032890S | 亿嘉和科技股份有限公司 | 2026 |
 | [清洁机器人（J36）](https://patents.google.com/patent/CN310034034S) | CN310034034S | 亿嘉和科技股份有限公司 | 2026 |
 | [HIP ASSEMBLY AND KINEMATICS OF A HUMANOID ROBOT](https://patents.google.com/patent/WO2025213141A1) | WO2025213141A1 | Figure AI, Inc. | 2025 |
+| [轮足机器人及轮足移动终端](https://patents.google.com/patent/CN120646115A) | CN120646115A | 广州汽车集团股份有限公司 | 2025 |
+| [机械腿、轮足机器人及轮足移动终端](https://patents.google.com/patent/CN120681252A) | CN120681252A | 广州汽车集团股份有限公司 | 2025 |
+| [机械腿、轮足机器人及轮足移动终端](https://patents.google.com/patent/CN120681253A) | CN120681253A | 广州汽车集团股份有限公司 | 2025 |
+| [一种机器人底盘结构、机器人](https://patents.google.com/patent/CN120963885A) | CN120963885A | 广州汽车集团股份有限公司 | 2025 |
+| [一种头部云台及智能移动终端](https://patents.google.com/patent/CN122185120A) | CN122185120A | 广州汽车集团股份有限公司 | 2026 |
 | [一种沿双圆管轨道运行巡检机器人的四驱磁吸轮驱动机构](https://patents.google.com/patent/CN121291626A) | CN121291626A | 中信重工开诚智能装备有限公司 |  |
 | [一种换流站阀厅巡检机器人使用的组合式轨道](https://patents.google.com/patent/CN117400222B) | CN117400222B | 科大智能科技股份有限公司 |  |
 | [一种变电站巡检机器人新型驱动转向装置](https://patents.google.com/patent/CN209739148U) | CN209739148U | 科大智能科技股份有限公司 |  |
@@ -466,7 +548,21 @@ mindmap
 | [巡检机器人（青舟）](https://patents.google.com/patent/CN309954830S) | CN309954830S | 北京可安可智能科技有限公司 | 2026 |
 | [巡检机器人用轨道限位器及轨道限位系统](https://patents.google.com/patent/CN205854175U) | CN205854175U | 深圳市朗驰欣创科技股份有限公司 |  |
 | [致动器，关节模组及机器人](https://patents.google.com/patent/CN117103333B) | CN117103333B | 深圳逐际动力科技有限公司 | 2023 |
+| [一种抗高温机器人隔热方法](https://patents.google.com/patent/CN117429100B) | CN117429100B | 北京凌天智能装备集团股份有限公司 | 2026 |
+| [一种抗干扰的多频段自适应无线通信控制方法及系统](https://patents.google.com/patent/CN121397551A) | CN121397551A | 北京凌天智能装备集团股份有限公司 | 2026 |
+| [一种辅助运输消防四足机器人](https://patents.google.com/patent/CN224241142U) | CN224241142U | 北京凌天智能装备集团股份有限公司 | 2026 |
+| [一种可快速更换电池的灭火四足机器人](https://patents.google.com/patent/CN224345341U) | CN224345341U | 北京凌天智能装备集团股份有限公司 | 2026 |
+| [一种带有自扶正结构的机器人用通讯装置](https://patents.google.com/patent/CN224610114U) | CN224610114U | 北京凌天智能装备集团股份有限公司 | 2026 |
 | [中空内气管人形机械臂](https://patents.google.com/patent/CN122829795A) | CN122829795A | 上海穹彻智能科技有限公司 | 2026 |
+| [一种轨道式灭火机器人的灭火弹自动更换装置及其更换方法](https://patents.google.com/patent/CN117531150B) | CN117531150B | 重庆七腾机器人科技有限公司 | 2026 |
+| [一种双减速髋部模块及其组成的防爆人形机器人](https://patents.google.com/patent/CN120962728A) | CN120962728A | 重庆七腾机器人科技有限公司 | 2025 |
+| [一种悬挂可调节大负载全向底盘及其组成的防爆人形机器人](https://patents.google.com/patent/CN120963269A) | CN120963269A | 重庆七腾机器人科技有限公司 | 2025 |
+| [一种防爆四轮足式机器人](https://patents.google.com/patent/CN122186306A) | CN122186306A | 重庆七腾机器人科技有限公司 | 2026 |
+| [一种轻量化机身模块及其组成的防爆四轮足式机器人](https://patents.google.com/patent/CN122232766A) | CN122232766A | 重庆七腾机器人科技有限公司 | 2026 |
+| [一种轮腿模块及其组成的防爆四轮足式机器人](https://patents.google.com/patent/CN122402680A) | CN122402680A | 重庆七腾机器人科技有限公司 | 2026 |
+| [一种轮足快换模块及其组成的防爆四足式机器人](https://patents.google.com/patent/CN122463974A) | CN122463974A | 重庆七腾机器人科技有限公司 | 2026 |
+| [防爆四足式机器人](https://patents.google.com/patent/CN310214206S) | CN310214206S | 重庆七腾机器人科技有限公司 | 2026 |
+| [防爆四轮足式机器人](https://patents.google.com/patent/CN310214207S) | CN310214207S | 重庆七腾机器人科技有限公司 | 2026 |
 | [磁性绝对角度编码器和机器人](https://patents.google.com/patent/CN122858533A) | CN122858533A | 睿尔曼智能科技（北京）股份有限公司 | 2026 |
 | [清洁机器人及清洁系统](https://patents.google.com/patent/CN122701241A) | CN122701241A | 北京石头世纪科技股份有限公司 | 2026 |
 | [人形机器人的腿部结构和具有其的人形机器人](https://patents.google.com/patent/CN115593535B) | CN115593535B | 北京星动纪元科技有限公司 | 2022 |
@@ -479,6 +575,9 @@ mindmap
 | [基于张拉整体结构的可变形轮足结构、机器人及工作方法](https://patents.google.com/patent/CN117698871B) | CN117698871B | 杭州申昊科技股份有限公司 | 2026 |
 | [一种运维机器人充电桩及充电接口](https://patents.google.com/patent/CN223079789U) | CN223079789U | 杭州申昊科技股份有限公司 | 2025 |
 | [一种机器人的可快拆式运动底盘](https://patents.google.com/patent/CN224060980U) | CN224060980U | 杭州申昊科技股份有限公司 | 2026 |
+| [一种巡检机器人及其底盘](https://patents.google.com/patent/CN109551498B) | CN109551498B | 北京史河科技有限公司 | 2024 |
+| [一种巡检机器人及其底盘](https://patents.google.com/patent/CN209579583U) | CN209579583U | 北京史河科技有限公司 | 2019 |
+| [巡检机器人](https://patents.google.com/patent/CN305357227S) | CN305357227S | 北京史河科技有限公司 | 2019 |
 | [头部转动装置及机器人](https://patents.google.com/patent/CN121374726A) | CN121374726A | 松延动力（北京）科技有限公司 | 2026 |
 | [一种机器人并联同轴输出关节模组](https://patents.google.com/patent/CN122584415A) | CN122584415A | 北京松延动力科技集团股份有限公司 | 2026 |
 | [SYSTEMS AND METHODS FOR A ROBOT KNEE JOINT ASSEMBLY](https://patents.google.com/patent/WO2024073135A1) | WO2024073135A1 | Tesla, Inc. | 2024 |
@@ -506,12 +605,14 @@ mindmap
 | [一种人形机器人包装结构、包装方法和使用方法](https://patents.google.com/patent/CN122976981A) | CN122976981A | 杭州宇树科技有限公司 | 2026 |
 | [一种带有航座可容纳多台无人机的四足机器人](https://patents.google.com/patent/CN118025371B) | CN118025371B | 杭州云深处科技股份有限公司 | 2024 |
 | [轴系组件、转动机构和机器人](https://patents.google.com/patent/CN119188832A) | CN119188832A | 深圳璇玑动力科技有限公司 | 2024 |
+| [定子总成以及电机定子加工方法和设备](https://patents.google.com/patent/CN121077124A) | CN121077124A | 深圳璇玑动力科技有限公司 | 2026 |
 | [四足机器人回充定位方法、装置、机器人及介质](https://patents.google.com/patent/CN121475227B) | CN121475227B | 深圳璇玑动力科技有限公司 | 2026 |
 | [一种机器人回充定位方法、装置、足式机器人及存储介质](https://patents.google.com/patent/CN121704471A) | CN121704471A | 深圳璇玑动力科技有限公司 | 2026 |
 | [一种模块化的四足机器人](https://patents.google.com/patent/CN121822678A) | CN121822678A | 深圳璇玑动力科技有限公司 | 2026 |
 | [足式机器人、充电桩及充电系统](https://patents.google.com/patent/CN122512605B) | CN122512605B | 深圳璇玑动力科技有限公司 | 2026 |
 | [一种机器人制造用双面自动点焊机](https://patents.google.com/patent/CN122703121B) | CN122703121B | 深圳璇玑动力科技有限公司 | 2026 |
 | [主从站通信链路自愈方法、装置、设备及存储介质](https://patents.google.com/patent/CN123020329A) | CN123020329A | 深圳璇玑动力科技有限公司 | 2026 |
+| [关节模组](https://patents.google.com/patent/CN224407642U) | CN224407642U | 深圳璇玑动力科技有限公司 | 2026 |
 | [一种电机](https://patents.google.com/patent/CN224438728U) | CN224438728U | 深圳璇玑动力科技有限公司 | 2026 |
 | [定子绕组、定子组件和电机](https://patents.google.com/patent/CN224582978U) | CN224582978U | 深圳璇玑动力科技有限公司 | 2026 |
 | [接线排、定子组件和电机](https://patents.google.com/patent/CN224596252U) | CN224596252U | 深圳璇玑动力科技有限公司 | 2026 |
@@ -530,6 +631,14 @@ mindmap
 | [挂轨机器人的无线充电方法和装置、电子设备及存储介质](https://patents.google.com/patent/CN122801627A) | CN122801627A | 优艾智合机器人科技有限公司 | 2026 |
 | [可安装在机器人上的视觉识别装置及机器人](https://patents.google.com/patent/CN218398208U) | CN218398208U | 优艾智合机器人科技有限公司 | 2023 |
 | [人形机器人（隙锋）](https://patents.google.com/patent/CN310080334S) | CN310080334S | 优艾智合机器人科技有限公司 | 2026 |
+| [一种机器人充电装置及其充电方法](https://patents.google.com/patent/CN122456717A) | CN122456717A | 越甲灵动（深圳）科技有限公司 | 2026 |
+| [一种抗高冲击的机器人关节](https://patents.google.com/patent/CN224928010U) | CN224928010U | 越甲灵动（深圳）科技有限公司 | 2026 |
+| [一种四足机器人机身结构](https://patents.google.com/patent/CN224929137U) | CN224929137U | 越甲灵动（深圳）科技有限公司 | 2026 |
+| [机器人（小型四足）](https://patents.google.com/patent/CN309970227S) | CN309970227S | 越甲灵动（深圳）科技有限公司 | 2026 |
+| [四足机器人小腿（轮式）](https://patents.google.com/patent/CN310126153S) | CN310126153S | 越甲灵动（深圳）科技有限公司 | 2026 |
+| [四足机器人（足式）](https://patents.google.com/patent/CN310126154S) | CN310126154S | 越甲灵动（深圳）科技有限公司 | 2026 |
+| [四足机器人（足式）](https://patents.google.com/patent/CN310126174S) | CN310126174S | 越甲灵动（深圳）科技有限公司 | 2026 |
+| [四足机器人的腿（轮式）](https://patents.google.com/patent/CN310126175S) | CN310126175S | 越甲灵动（深圳）科技有限公司 | 2026 |
 | [一种携带救援机器人的载具](https://patents.google.com/patent/CN115959022B) | CN115959022B | 杭州云深处科技股份有限公司 | 2026 |
 | [四足机器人驱动电路快拆机构和驱动电路的快拆方法](https://patents.google.com/patent/CN116321736B) | CN116321736B | 杭州云深处科技股份有限公司 | 2026 |
 | [四足机器人的百叶可调式镜片](https://patents.google.com/patent/CN116582737B) | CN116582737B | 杭州云深处科技股份有限公司 | 2026 |
@@ -554,7 +663,7 @@ mindmap
 | [关节模组和机器人](https://patents.google.com/patent/CN120862745B) | CN120862745B | 智元创新（上海）科技股份有限公司 | 2025 |
 
 <a id="dexterous-manipulation"></a>
-## 🤏 Dexterous Manipulation(36)
+## 🤏 Dexterous Manipulation(43)
 
 > 灵巧手与操作：抓取、柔性操作、多指控制
 
@@ -573,10 +682,17 @@ mindmap
 | [KINEMATICS OF A MECHANICAL END EFFECTOR FOR A HUMANOID ROBOT](https://patents.google.com/patent/WO2025151892A1) | WO2025151892A1 | Figure AI, Inc. | 2025 |
 | [粘附设备和机器人](https://patents.google.com/patent/CN116277089B) | CN116277089B | 上海非夕机器人科技有限公司、非夕科技有限公司 | 2026 |
 | [用于力控制的控制信号振动抑制方法和计算机设备](https://patents.google.com/patent/CN116442239B) | CN116442239B | 上海非夕机器人科技有限公司、非夕科技有限公司 | 2026 |
+| [臂型角计算方法、装置、系统及设备](https://patents.google.com/patent/CN119681874B) | CN119681874B | 广州汽车集团股份有限公司 | 2026 |
 | [ROBOT HAND AND ROBOT HAND CONTROL METHOD](https://patents.google.com/patent/JP2023105585A) | JP2023105585A | Honda Motor Co., Ltd. | 2023 |
 | [一种双臂机器人双臂协作内力的调节方法及系统](https://patents.google.com/patent/CN122829848A) | CN122829848A | 宁波均普人工智能与人形机器人研究院有限公司 | 2026 |
 | [一种巡检机器人机械手臂](https://patents.google.com/patent/CN122584391A) | CN122584391A | 北京可安可智能科技有限公司 | 2026 |
+| [一种具备自防护效果的双臂排爆机器人](https://patents.google.com/patent/CN121061808A) | CN121061808A | 北京凌天智能装备集团股份有限公司 | 2025 |
+| [兼具高通过性与灵巧作业能力的双臂人形应急救援机器人](https://patents.google.com/patent/CN121912389A) | CN121912389A | 北京凌天智能装备集团股份有限公司 | 2026 |
+| [一种旋转伸缩机械臂抓取转移的远程控制排爆机器人](https://patents.google.com/patent/CN122975600A) | CN122975600A | 北京凌天智能装备集团股份有限公司 | 2026 |
 | [面向精密装配的机器人灵巧手微力控制方法及系统](https://patents.google.com/patent/CN120269571A) | CN120269571A | 灵心巧手（北京）科技有限公司 | 2025 |
+| [一种防爆人形机器人的多层末端快换系统、末端执行器及人形机器人](https://patents.google.com/patent/CN119388468B) | CN119388468B | 重庆七腾机器人科技有限公司 | 2025 |
+| [基于虚拟安全机制的人形机器人柔顺协同搬运方法及系统](https://patents.google.com/patent/CN120921409B) | CN120921409B | 重庆七腾机器人科技有限公司 | 2026 |
+| [一种基于自适应力控的人形机器人双臂随动协同控制方法](https://patents.google.com/patent/CN121083632B) | CN121083632B | 重庆七腾机器人科技有限公司 | 2026 |
 | [一种巡检机器人末端旋拧工具使用方法](https://patents.google.com/patent/CN115106997B) | CN115106997B | 杭州申昊科技股份有限公司 | 2025 |
 | [一种末端工具改进的巡检机器人](https://patents.google.com/patent/CN115107048B) | CN115107048B | 杭州申昊科技股份有限公司 | 2025 |
 | [线缆夹举方法及装置、电子设备](https://patents.google.com/patent/CN115816445B) | CN115816445B | 杭州申昊科技股份有限公司 | 2025 |
@@ -617,7 +733,7 @@ mindmap
 | [历史文化教育沉浸式场景交互方法、装置、设备和介质](https://patents.google.com/patent/CN122511163A) | CN122511163A | 杭州云深处科技股份有限公司 | 2026 |
 
 <a id="inspection-robotics"></a>
-## 🔎 Inspection Robotics(61)
+## 🔎 Inspection Robotics(77)
 
 > 巡检机器人：电力、轨道、隧道、化工等场景的巡检系统与装置
 
@@ -652,6 +768,18 @@ mindmap
 | [变电站巡检机器人及电力设备接地故障检测方法](https://patents.google.com/patent/CN107861017B) | CN107861017B | 深圳市朗驰欣创科技股份有限公司 |  |
 | [一种巡检系统、方法、终端和存储介质](https://patents.google.com/patent/CN112365622B) | CN112365622B | 深圳市朗驰欣创科技股份有限公司 |  |
 | [一种铁路牵引站巡检机器人](https://patents.google.com/patent/CN209142126U) | CN209142126U | 深圳市朗驰欣创科技股份有限公司 |  |
+| [一种消防机器人灭火方法、系统、介质及其程序产品](https://patents.google.com/patent/CN120919569A) | CN120919569A | 北京凌天智能装备集团股份有限公司 | 2025 |
+| [一种矿用履带式应急排水机器人](https://patents.google.com/patent/CN120969113A) | CN120969113A | 北京凌天智能装备集团股份有限公司 | 2025 |
+| [一种基于双摆臂底盘的多地形自适应排爆机器人](https://patents.google.com/patent/CN121018487A) | CN121018487A | 北京凌天智能装备集团股份有限公司 | 2025 |
+| [一种耐高温消防灭火机器人](https://patents.google.com/patent/CN121371558A) | CN121371558A | 北京凌天智能装备集团股份有限公司 | 2026 |
+| [一种多功能消防灭火救援机器人](https://patents.google.com/patent/CN121846597A) | CN121846597A | 北京凌天智能装备集团股份有限公司 | 2026 |
+| [一种双履带与低重心防倾覆作业的轻型排爆机器人](https://patents.google.com/patent/CN122975599A) | CN122975599A | 北京凌天智能装备集团股份有限公司 | 2026 |
+| [一种小空间精细处置用轻型排爆机器人](https://patents.google.com/patent/CN123000724A) | CN123000724A | 北京凌天智能装备集团股份有限公司 | 2026 |
+| [一种排爆四足机器人](https://patents.google.com/patent/CN224144631U) | CN224144631U | 北京凌天智能装备集团股份有限公司 | 2026 |
+| [一种消防侦察四足机器人](https://patents.google.com/patent/CN224156236U) | CN224156236U | 北京凌天智能装备集团股份有限公司 | 2026 |
+| [一种用于风电机舱巡检机器人的轨道供电系统](https://patents.google.com/patent/CN115800475B) | CN115800475B | 重庆七腾机器人科技有限公司 | 2026 |
+| [一种基于动作并发执行的巡检方法及巡检机器人](https://patents.google.com/patent/CN117921687B) | CN117921687B | 重庆七腾机器人科技有限公司 | 2026 |
+| [基于短期密集级联网络的焦炉交换考克快速巡检方法](https://patents.google.com/patent/CN118027992B) | CN118027992B | 重庆七腾机器人科技有限公司 | 2026 |
 | [一种高空除冰巡检机器人](https://patents.google.com/patent/CN114243614B) | CN114243614B | 杭州申昊科技股份有限公司 | 2025 |
 | [一种轨道巡检机器人的行走机构](https://patents.google.com/patent/CN114310929B) | CN114310929B | 杭州申昊科技股份有限公司 |  |
 | [架空线路行走机器人电池加热管理系统及电池加热控制方法](https://patents.google.com/patent/CN115775934B) | CN115775934B | 杭州申昊科技股份有限公司 | 2025 |
@@ -667,6 +795,8 @@ mindmap
 | [一种多级电缆除冰机器人及分级除冰方法](https://patents.google.com/patent/CN121011961A) | CN121011961A | 杭州申昊科技股份有限公司 | 2025 |
 | [一种夹持式电缆除冰机器人的控制方法及设备](https://patents.google.com/patent/CN122890249A) | CN122890249A | 杭州申昊科技股份有限公司 | 2026 |
 | [一种可快拆的传感器安装结构及巡检机器人](https://patents.google.com/patent/CN224065205U) | CN224065205U | 杭州申昊科技股份有限公司 | 2026 |
+| [一种磁吸附巡检机器人及其控制方法](https://patents.google.com/patent/CN115771577B) | CN115771577B | 北京史河科技有限公司 | 2023 |
+| [塔筒自动巡检机器人](https://patents.google.com/patent/CN118896957A) | CN118896957A | 北京史河科技有限公司 | 2024 |
 | [一种针对管廊场景的特征强化地图生成方法和设备](https://patents.google.com/patent/CN120495124B) | CN120495124B | 杭州宇树科技有限公司 | 2025 |
 | [一种智能轨道巡检机器人](https://patents.google.com/patent/CN111352412B) | CN111352412B | 深圳信通环球科技有限公司 |  |
 | [一种智能光伏运维管控系统](https://patents.google.com/patent/CN115441832A) | CN115441832A | 深圳璇玑动力科技有限公司 | 2022 |
@@ -683,10 +813,12 @@ mindmap
 | [巡检机器人的部署方法、巡检机器人、装置及存储介质](https://patents.google.com/patent/CN121232819A) | CN121232819A | 优艾智合机器人科技有限公司 | 2025 |
 | [基于机器人的巡检方法、装置、机器人及介质](https://patents.google.com/patent/CN122756108A) | CN122756108A | 优艾智合机器人科技有限公司 | 2026 |
 | [地刀测试方法及设备、计算机可读存储介质](https://patents.google.com/patent/CN122882045A) | CN122882045A | 优艾智合机器人科技有限公司 | 2026 |
+| [一种基于AI视觉的四足机器人自主巡检方法及系统](https://patents.google.com/patent/CN122756132A) | CN122756132A | 越甲灵动（深圳）科技有限公司 | 2026 |
+| [基于风险识别的四足机器人智能巡检方法及系统](https://patents.google.com/patent/CN122756274A) | CN122756274A | 越甲灵动（深圳）科技有限公司 | 2026 |
 | [一种便捷移动式图像信息采集装置](https://patents.google.com/patent/CN116027348B) | CN116027348B | 杭州云深处科技股份有限公司 | 2026 |
 
 <a id="locomotion"></a>
-## 🦿 Locomotion(49)
+## 🦿 Locomotion(58)
 
 > 运动控制与平衡：步态规划、全身控制、动态平衡
 
@@ -699,10 +831,19 @@ mindmap
 | [一种机器人的上下底盘操作方法、装置、设备及存储介质](https://patents.google.com/patent/CN122807954B) | CN122807954B | 数字华夏（深圳）科技有限公司 | 2026 |
 | [一种基于人体动作采集的人形机器人全身控制方法](https://patents.google.com/patent/CN119260728B) | CN119260728B | 亿嘉和科技股份有限公司 | 2026 |
 | [机器人轨迹控制方法及系统](https://patents.google.com/patent/CN121290443B) | CN121290443B | 上海傅利叶智能科技股份有限公司 | 2025 |
+| [一种机器人及其控制方法和控制装置](https://patents.google.com/patent/CN118061187B) | CN118061187B | 广州汽车集团股份有限公司 | 2026 |
+| [机械腿、轮足机器人、轮足移动终端及模式切换方法](https://patents.google.com/patent/CN120681254A) | CN120681254A | 广州汽车集团股份有限公司 | 2025 |
 | [防摔倒方法、装置及机器人](https://patents.google.com/patent/CN119871434B) | CN119871434B | 北京银河通用机器人股份有限公司 | 2025 |
 | [ROBOT, CONTROL METHOD OF ROBOT AND CONTROL PROGRAM OF ROBOT](https://patents.google.com/patent/US20080240889A1) | US20080240889A1 | Honda Motor Co., Ltd. | 2008 |
 | [用于标定机器人的运动学参数的方法和装置](https://patents.google.com/patent/CN116117785B) | CN116117785B | 华为技术有限公司 | 2021 |
 | [用于机器人行走控制的数据处理方法和装置](https://patents.google.com/patent/CN119828744A) | CN119828744A | 北京可安可智能科技有限公司 | 2025 |
+| [基于油电混合动力的救援物资运输跟随机器人及控制方法](https://patents.google.com/patent/CN121132647B) | CN121132647B | 北京凌天智能装备集团股份有限公司 | 2026 |
+| [一种全向地形自适应轮式机器人底盘的控制方法及系统](https://patents.google.com/patent/CN115951664B) | CN115951664B | 重庆七腾机器人科技有限公司 | 2026 |
+| [基于强化学习与NMPC-WBC的四轮足式机器人自适应控制方法](https://patents.google.com/patent/CN122260870B) | CN122260870B | 重庆七腾机器人科技有限公司 | 2026 |
+| [分层VMC融合轮足约束WBC的四轮足式机器人控制方法及系统](https://patents.google.com/patent/CN122386842A) | CN122386842A | 重庆七腾机器人科技有限公司 | 2026 |
+| [基于安全屏障函数与多模态观测的四轮足式机器人强化学习控制方法及系统](https://patents.google.com/patent/CN122411016A) | CN122411016A | 重庆七腾机器人科技有限公司 | 2026 |
+| [基于先验知识和强化学习的四轮足式机器人双模式控制方法及机器人](https://patents.google.com/patent/CN122526202A) | CN122526202A | 重庆七腾机器人科技有限公司 | 2026 |
+| [一种面向机器人律动的自适应控制方法及系统](https://patents.google.com/patent/CN122769965A) | CN122769965A | 重庆七腾机器人科技有限公司 | 2026 |
 | [一种轮式机器人](https://patents.google.com/patent/CN115107046B) | CN115107046B | 杭州申昊科技股份有限公司 | 2026 |
 | [一种水下作业四足机器人](https://patents.google.com/patent/CN116424526B) | CN116424526B | 杭州申昊科技股份有限公司 | 2025 |
 | [一种腿橇式沙漠机器人](https://patents.google.com/patent/CN116620438B) | CN116620438B | 杭州申昊科技股份有限公司 | 2026 |
@@ -743,7 +884,7 @@ mindmap
 | [一种四足机器人跟随方法、装置和设备](https://patents.google.com/patent/CN122507099B) | CN122507099B | 杭州云深处科技股份有限公司 | 2026 |
 
 <a id="navigation--slam"></a>
-## 🧭 Navigation &amp; SLAM(51)
+## 🧭 Navigation &amp; SLAM(55)
 
 > 导航与 SLAM：定位建图、路径规划、场景理解
 
@@ -766,6 +907,10 @@ mindmap
 | [机器人自主探索方法和装置](https://patents.google.com/patent/CN119845271B) | CN119845271B | 北京可安可智能科技有限公司 | 2025 |
 | [用于低速无人驾驶路径规划的数据处理方法和装置](https://patents.google.com/patent/CN119935137A) | CN119935137A | 北京可安可智能科技有限公司 | 2025 |
 | [巡检机器人智能导航方法及装置](https://patents.google.com/patent/CN121540140B) | CN121540140B | 北京可安可智能科技有限公司 | 2026 |
+| [基于AOA定位的UWB单芯片机器人自动跟随系统](https://patents.google.com/patent/CN121741632A) | CN121741632A | 北京凌天智能装备集团股份有限公司 | 2026 |
+| [机器人多传感器信息融合视频显示方法、装置、系统和存储介质](https://patents.google.com/patent/CN116320452B) | CN116320452B | 重庆七腾机器人科技有限公司 | 2026 |
+| [一种轨道机器人位置偏移自动校准的方法](https://patents.google.com/patent/CN121113112A) | CN121113112A | 重庆七腾机器人科技有限公司 | 2025 |
+| [融合对抗运动先验与软着陆惩罚的四足机器人端到端导航控制方法及系统](https://patents.google.com/patent/CN122756193A) | CN122756193A | 重庆七腾机器人科技有限公司 | 2026 |
 | [MOBILE ROBOT DEVICE AND METHOD FOR CONTROLLING MOBILE ROBOT DEVICE](https://patents.google.com/patent/WO2021101047A1) | WO2021101047A1 | Samsung Electronics Co., Ltd. | 2021 |
 | [地图更新方法、装置、电子设备和存储介质](https://patents.google.com/patent/CN115824192B) | CN115824192B | 杭州申昊科技股份有限公司 | 2025 |
 | [针对半封闭复杂环境的多机器人任务分配及电量管理系统](https://patents.google.com/patent/CN120839850B) | CN120839850B | 杭州申昊科技股份有限公司 | 2026 |
@@ -802,7 +947,7 @@ mindmap
 | [机器人导航方法和装置](https://patents.google.com/patent/CN122835410A) | CN122835410A | 杭州云深处科技股份有限公司 | 2026 |
 
 <a id="sim2real--data"></a>
-## 🎲 Sim2Real &amp; Data(23)
+## 🎲 Sim2Real &amp; Data(29)
 
 > 仿真训练与数据合成：sim2real 迁移、数据采集与蒸馏
 
@@ -812,11 +957,17 @@ mindmap
 | [多模态的穿戴式人形机器人数据采集和遥操系统](https://patents.google.com/patent/CN119416153B) | CN119416153B | 亿嘉和科技股份有限公司 | 2025 |
 | [一种用于配网带电作业的遥操作机器人系统及作业方法](https://patents.google.com/patent/CN122210624A) | CN122210624A | 亿嘉和科技股份有限公司 | 2026 |
 | [人形机器人动作库数据处理方法及装置](https://patents.google.com/patent/CN121200088B) | CN121200088B | 上海傅利叶智能科技股份有限公司 | 2025 |
+| [一种机器人控制方法、装置、手柄及系统](https://patents.google.com/patent/CN118342500B) | CN118342500B | 广州汽车集团股份有限公司 | 2026 |
+| [一种机器人远程操控系统、方法、存储介质及计算机程序产品](https://patents.google.com/patent/CN119427365B) | CN119427365B | 广州汽车集团股份有限公司 | 2026 |
 | [机器人装配方法、装置、非易失性存储介质和计算机设备](https://patents.google.com/patent/CN122975633A) | CN122975633A | 节卡机器人股份有限公司 | 2026 |
 | [基于深度强化学习的机器人手臂运动控制策略网络训练方法及装置](https://patents.google.com/patent/CN121200037B) | CN121200037B | 深圳逐际动力科技有限公司 | 2025 |
 | [SIMULATION AND REINFORCEMENT LEARNING TECHNIQUES FOR PERFORMING ROBOTIC TASKS](https://patents.google.com/patent/US20230321822A1) | US20230321822A1 | NVIDIA Corporation | 2023 |
 | [SIM-TO-REAL REINFORCEMENT LEARNING FOR VISION-BASED DEXTEROUS MANIPULATION ON HUMANOIDS](https://patents.google.com/patent/US20260316276A1) | US20260316276A1 | NVIDIA Corporation | 2026 |
 | [一种训练样本的物体位姿标注方法、装置及系统](https://patents.google.com/patent/CN120031923A) | CN120031923A | 帕西尼感知科技（深圳）有限公司 | 2025 |
+| [一种力补偿机制的人形机器人双边力反馈遥操作方法](https://patents.google.com/patent/CN120985653B) | CN120985653B | 重庆七腾机器人科技有限公司 | 2026 |
+| [一种支持遥操作机器人的远程控制驾驶座舱系统、控制方法及其组成的防爆机器人](https://patents.google.com/patent/CN121018617A) | CN121018617A | 重庆七腾机器人科技有限公司 | 2025 |
+| [一种防爆人形机器人5G跨域低时延远程控制系统及方法](https://patents.google.com/patent/CN121199998B) | CN121199998B | 重庆七腾机器人科技有限公司 | 2026 |
+| [一种基于ROS2的异构遥操作虚实协同控制方法及系统](https://patents.google.com/patent/CN122125720B) | CN122125720B | 重庆七腾机器人科技有限公司 | 2026 |
 | [SYNTHETIC ROBOT DATA GENERATION AND MODEL TRAINING WITH THE SYNTHETIC ROBOT DATA](https://patents.google.com/patent/WO2026143291A1) | WO2026143291A1 | Sanctuary Cognitive Systems Corporation (Sanctuary AI) | 2026 |
 | [SYSTEM AND METHOD FOR UNKNOWN OBJECT MANIPULATION FROM PURE SYNTHETIC STEREO DATA](https://patents.google.com/patent/US20230398692A1) | US20230398692A1 | Toyota Research Institute, Inc. | 2023 |
 | [一种基于操控员足部位姿传感器的四足机器人遥操作方法](https://patents.google.com/patent/CN106363625B) | CN106363625B | 杭州宇树科技有限公司 | 2019 |
@@ -833,7 +984,7 @@ mindmap
 | [基于仿生机器马的马具性能测试方法、装置、设备和介质](https://patents.google.com/patent/CN121898823A) | CN121898823A | 杭州云深处科技股份有限公司 | 2026 |
 
 <a id="tactile-sensing"></a>
-## 👆 Tactile Sensing(10)
+## 👆 Tactile Sensing(11)
 
 > 触觉与传感：触觉皮肤、力觉感知、多模态传感
 
@@ -842,6 +993,7 @@ mindmap
 | [ADVANCED ARRAY OF SENSOR ASSEMBLIES OF A HUMANOID ROBOT](https://patents.google.com/patent/WO2025221916A1) | WO2025221916A1 | Figure AI, Inc. | 2025 |
 | [一种触觉传感器](https://patents.google.com/patent/CN120313771B) | CN120313771B | 北京因时机器人科技有限公司 | 2025 |
 | [一种基于卷积自编码器的轨道巡检机器人异常声音检测方法](https://patents.google.com/patent/CN119296580A) | CN119296580A | 中信重工开诚智能装备有限公司 |  |
+| [一种耐高温消防机器人测温传感器结构](https://patents.google.com/patent/CN121977698A) | CN121977698A | 北京凌天智能装备集团股份有限公司 | 2026 |
 | [具备双模态感知功能的仿人机器人手指磁触觉传感器系统](https://patents.google.com/patent/CN120307353A) | CN120307353A | 灵心巧手（北京）科技有限公司、北京邮电大学 | 2025 |
 | [多相机同步性能检测与标定系统、方法](https://patents.google.com/patent/CN122640541A) | CN122640541A | 上海穹彻智能科技有限公司 | 2026 |
 | [机器人灵巧手的表面接触力解算方法及触觉指尖](https://patents.google.com/patent/CN122807972A) | CN122807972A | 上海穹彻智能科技有限公司 | 2026 |
@@ -851,7 +1003,7 @@ mindmap
 | [一种带变形部扭力感知的减速器、关节结构和机器人关节](https://patents.google.com/patent/CN118066276A) | CN118066276A | 杭州宇树科技有限公司 | 2024 |
 
 <a id="vla-model"></a>
-## 🧠 VLA Model(12)
+## 🧠 VLA Model(14)
 
 > 具身大模型与 VLA：视觉-语言-动作策略、任务规划
 
@@ -864,6 +1016,8 @@ mindmap
 | [服务于电力机器人的人工智能系统及方法](https://patents.google.com/patent/CN112990310A) | CN112990310A | 国网智能科技股份有限公司 |  |
 | [机器人控制方法、装置及电子设备](https://patents.google.com/patent/CN123000777A) | CN123000777A | 节卡机器人股份有限公司 | 2026 |
 | [基于域控制的巡检VLA长任务控制调度方法及装置](https://patents.google.com/patent/CN122838040A) | CN122838040A | 南京江行联加智能科技有限公司 | 2026 |
+| [基于多模态大模型的巡检机器人工业巡检异常识别方法](https://patents.google.com/patent/CN121811122A) | CN121811122A | 重庆七腾机器人科技有限公司 | 2026 |
+| [一种工业具身智能控制方法、模型训练方法及系统](https://patents.google.com/patent/CN122851655A) | CN122851655A | 重庆七腾机器人科技有限公司 | 2026 |
 | [SYSTEMS, METHODS, AND COMPUTER PROGRAM PRODUCTS FOR HIERARCHICAL MULTI-AGENT GOAL-SEEKING](https://patents.google.com/patent/US20240280967A1) | US20240280967A1 | Sanctuary Cognitive Systems Corporation (Sanctuary AI) | 2024 |
 | [一种基于大模型驱动的智慧化病房多模态机器人系统](https://patents.google.com/patent/CN121301525B) | CN121301525B | 杭州申昊科技股份有限公司 | 2026 |
 | [数字永生方法、系统、设备、存储介质和智能身外化身](https://patents.google.com/patent/CN116796788B) | CN116796788B | 杭州宇树科技有限公司 | 2026 |
