@@ -5,11 +5,11 @@
 
 **具身智能（Embodied AI）专利精选：按技术领域与公司两个维度收录人形机器人、操作大模型、灵巧手等方向的代表性专利，持续更新**
 
-已收录 **116** 条专利 · 覆盖 **58** 家公司 / 机构 · **9** 个技术领域分类（见[目录](#目录)）
+已收录 **145** 条专利 · 覆盖 **59** 家公司 / 机构 · **9** 个技术领域分类（见[目录](#目录)）
 
 [![Stars](https://img.shields.io/github/stars/LinuxSuRen/awesome-patent?style=flat-square)](https://github.com/LinuxSuRen/awesome-patent/stargazers)
 [![Last Commit](https://img.shields.io/github/last-commit/LinuxSuRen/awesome-patent?style=flat-square)](https://github.com/LinuxSuRen/awesome-patent/commits)
-[![Patents](https://img.shields.io/github/badge/patents-116-blue?style=flat-square)](#目录)
+[![Patents](https://img.shields.io/github/badge/patents-145-blue?style=flat-square)](#目录)
 [![License](https://img.shields.io/badge/license-MIT-green?style=flat-square)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square)](CONTRIBUTING.md)
 
@@ -45,6 +45,13 @@ mindmap
       SYSTEMS AND METHODS FOR A ROBOT KNEE JOINT ASSEMBLY · Tesla, Inc.
       一种机器人的头部组件及机器人 · 优理奇机器人科技（苏州）有限公司
       一种带有航座可容纳多台无人机的四足机器人 · 杭州云深处科技股份有限公司
+      一种模块化的四足机器人 · 深圳璇玑动力科技有限公司
+      足式机器人、充电桩及充电系统 · 深圳璇玑动力科技有限公司
+      一种机器人制造用双面自动点焊机 · 深圳璇玑动力科技有限公司
+      主从站通信链路自愈方法、装置、设备及存储介质 · 深圳璇玑动力科技有限公司
+      一种电机 · 深圳璇玑动力科技有限公司
+      接线排、定子组件和电机 · 深圳璇玑动力科技有限公司
+      接线装置与电机 · 深圳璇玑动力科技有限公司
       关节模组和机器人 · 智元创新（上海）科技股份有限公司
     Dexterous Manipulation
       执行机构、机械臂和机器人 · 自变量机器人科技（北京）有限公司
@@ -58,6 +65,8 @@ mindmap
       巡检机器人末端旋拧工具使用方法 · 杭州申昊科技股份有限公司
       双臂机器人的控制方法及装置、搬运方法、和双臂机器人 · 腾讯科技（深圳）有限公司
       UNDERACTUATED HAND WITH CABLE-DRIVEN FINGERS · Tesla, Inc.
+      机器人抓取控制方法和装置 · 深圳璇玑动力科技有限公司
+      一种机器人末端载荷的智能识别与自适应配置方法 · 深圳璇玑动力科技有限公司
       灵巧手和机器人 · 智元创新（上海）科技股份有限公司
       灵巧手手指、灵巧手和机器人 · 智元创新（上海）科技股份有限公司
     Human-Robot Safety
@@ -84,6 +93,15 @@ mindmap
       一种轨道巡检机器人的行走机构 · 杭州申昊科技股份有限公司
       一种模块化的轨道巡检机器人 · 杭州申昊科技股份有限公司
       一种智能轨道巡检机器人 · 深圳信通环球科技有限公司
+      一种智能光伏运维管控系统 · 深圳璇玑动力科技有限公司
+      一种智能供配电运维管理系统 · 深圳璇玑动力科技有限公司
+      一种用于机器狗的防爆区域自主巡检方法及系统 · 深圳璇玑动力科技有限公司
+      一种联合无人机的腿足式机器人智能巡检方法及系统 · 深圳璇玑动力科技有限公司
+      一种基于腿足式机器人的铁路巡检路径规划方法及系统 · 深圳璇玑动力科技有限公司
+      多场景巡检的足式机器人任务切换与路径规划方法及系统 · 深圳璇玑动力科技有限公司
+      基于视觉语言大模型与知识图谱的机器人表计动态读数与状态研判方法 · 深圳璇玑动力科技有限公司
+      机器人铁路沿线设备巡检图像的异常识别方法及系统 · 深圳璇玑动力科技有限公司
+      高海拔地区巡检移动平台的能耗约束路径规划方法及系统 · 深圳璇玑动力科技有限公司
       巡检机器人 · 深圳优艾智合机器人科技有限公司
     Locomotion
       一种人形机器人的小腿机构 · 北京加速进化科技有限公司
@@ -104,6 +122,12 @@ mindmap
       机器人及其运动控制方法、装置、存储介质 · 北京小米机器人技术有限公司
       轨迹生成方法、装置、机器人及存储介质 · 北京小米机器人技术有限公司
       一种用于舵轮底盘的矢量控制方法及装置 · 星海图（苏州）人工智能科技有限公司
+      机器人的落足点规划方法、装置、设备及存储介质 · 深圳璇玑动力科技有限公司
+      机器人运动控制方法、机器人运动控制装置和四足机器人 · 深圳璇玑动力科技有限公司
+      四足及腿轮式机器人的运动控制方法、装置、设备及存储介质 · 深圳璇玑动力科技有限公司
+      基于牵引装置的四足机器人运动驱动方法及装置 · 深圳璇玑动力科技有限公司
+      轮足式机器人倒立旋转特技控制方法、装置、设备及存储介质 · 深圳璇玑动力科技有限公司
+      一种运动控制模型训练方法及装置、机器人运动控制方法 · 深圳璇玑动力科技有限公司
     Navigation & SLAM
       机器人的路径规划方法、装置、设备及机器人 · 追觅创新科技（苏州）有限公司
       悬崖检测方法、装置、自移动机器人及存储介质 · 追觅创新科技（苏州）有限公司
@@ -116,6 +140,7 @@ mindmap
       基于图形码的机器人定位方法、装置、设备及存储介质 · 腾讯科技（深圳）有限公司
       VISUAL TEACH AND REPEAT MOBILE MANIPULATION SYSTEM · Toyota Research Institute, Inc.
       路径处理方法、装置、电子设备、计算机可读存储介质及计算机程序产品 · 深圳市优必选科技股份有限公司
+      一种狭小空间下的腿足式机器人巡检导航方法及系统 · 深圳璇玑动力科技有限公司
       轨道机器人的定位方法、轨道机器人和可读存储介质 · 深圳优艾智合机器人科技有限公司
     Sim2Real & Data
       人形机器人动作库数据处理方法及装置 · 上海傅利叶智能科技股份有限公司
@@ -126,6 +151,10 @@ mindmap
       一种训练样本的物体位姿标注方法、装置及系统 · 帕西尼感知科技（深圳）有限公司
       SYNTHETIC ROBOT DATA GENERATION AND MODEL TRAINING WITH THE SYNTHETIC ROBOT DATA · Sanctuary Cognitive Systems Corporation （Sanctuary AI）
       SYSTEM AND METHOD FOR UNKNOWN OBJECT MANIPULATION FROM PURE SYNTHETIC STEREO DATA · Toyota Research Institute, Inc.
+      一种策略网络训练方法及装置、机器人控制方法和机器人 · 深圳璇玑动力科技有限公司
+      针对四足机器人的测试及评估方法及四足机器人 · 深圳璇玑动力科技有限公司
+      时序传感数据驱动的机器人训练动作质量测评方法及系统 · 深圳璇玑动力科技有限公司
+      基于数字孪生的机器人状态预测方法及系统 · 深圳璇玑动力科技有限公司
     Tactile Sensing
       ADVANCED ARRAY OF SENSOR ASSEMBLIES OF A HUMANOID ROBOT · Figure AI, Inc.
       一种触觉传感器 · 北京因时机器人科技有限公司
@@ -149,19 +178,19 @@ mindmap
 
 
 ## 目录
-- ⚙️ [Actuator &amp; Structure](#actuator--structure)（25）
-- 🤏 [Dexterous Manipulation](#dexterous-manipulation)（13）
+- ⚙️ [Actuator &amp; Structure](#actuator--structure)（32）
+- 🤏 [Dexterous Manipulation](#dexterous-manipulation)（15）
 - 🛡️ [Human-Robot Safety](#human-robot-safety)（7）
-- 🔎 [Inspection Robotics](#inspection-robotics)（16）
-- 🦿 [Locomotion](#locomotion)（18）
-- 🧭 [Navigation &amp; SLAM](#navigation--slam)（12）
-- 🎲 [Sim2Real &amp; Data](#sim2real--data)（8）
+- 🔎 [Inspection Robotics](#inspection-robotics)（25）
+- 🦿 [Locomotion](#locomotion)（24）
+- 🧭 [Navigation &amp; SLAM](#navigation--slam)（13）
+- 🎲 [Sim2Real &amp; Data](#sim2real--data)（12）
 - 👆 [Tactile Sensing](#tactile-sensing)（9）
 - 🧠 [VLA Model](#vla-model)（8）
 
 
 <a id="actuator--structure"></a>
-## ⚙️ Actuator &amp; Structure(25)
+## ⚙️ Actuator &amp; Structure(32)
 
 > 关节执行器与结构：关节模组、准直驱、整机结构
 
@@ -191,10 +220,17 @@ mindmap
 | [SYSTEMS AND METHODS FOR A ROBOT KNEE JOINT ASSEMBLY](https://patents.google.com/patent/WO2024073135A1) | WO2024073135A1 | Tesla, Inc. | 2024 |
 | [一种机器人的头部组件及机器人](https://patents.google.com/patent/CN121515133A) | CN121515133A | 优理奇机器人科技（苏州）有限公司 | 2026 |
 | [一种带有航座可容纳多台无人机的四足机器人](https://patents.google.com/patent/CN118025371B) | CN118025371B | 杭州云深处科技股份有限公司 | 2024 |
+| [一种模块化的四足机器人](https://patents.google.com/patent/CN121822678A) | CN121822678A | 深圳璇玑动力科技有限公司 | 2026 |
+| [足式机器人、充电桩及充电系统](https://patents.google.com/patent/CN122512605B) | CN122512605B | 深圳璇玑动力科技有限公司 | 2026 |
+| [一种机器人制造用双面自动点焊机](https://patents.google.com/patent/CN122703121B) | CN122703121B | 深圳璇玑动力科技有限公司 | 2026 |
+| [主从站通信链路自愈方法、装置、设备及存储介质](https://patents.google.com/patent/CN123020329A) | CN123020329A | 深圳璇玑动力科技有限公司 | 2026 |
+| [一种电机](https://patents.google.com/patent/CN224438728U) | CN224438728U | 深圳璇玑动力科技有限公司 | 2026 |
+| [接线排、定子组件和电机](https://patents.google.com/patent/CN224596252U) | CN224596252U | 深圳璇玑动力科技有限公司 | 2026 |
+| [接线装置与电机](https://patents.google.com/patent/CN224596253U) | CN224596253U | 深圳璇玑动力科技有限公司 | 2026 |
 | [关节模组和机器人](https://patents.google.com/patent/CN120862745B) | CN120862745B | 智元创新（上海）科技股份有限公司 | 2025 |
 
 <a id="dexterous-manipulation"></a>
-## 🤏 Dexterous Manipulation(13)
+## 🤏 Dexterous Manipulation(15)
 
 > 灵巧手与操作：抓取、柔性操作、多指控制
 
@@ -211,6 +247,8 @@ mindmap
 | [巡检机器人末端旋拧工具使用方法](https://patents.google.com/patent/CN119658679A) | CN119658679A | 杭州申昊科技股份有限公司 |  |
 | [双臂机器人的控制方法及装置、搬运方法、和双臂机器人](https://patents.google.com/patent/CN116197890B) | CN116197890B | 腾讯科技（深圳）有限公司 | 2021 |
 | [UNDERACTUATED HAND WITH CABLE-DRIVEN FINGERS](https://patents.google.com/patent/WO2024073138A1) | WO2024073138A1 | Tesla, Inc. | 2024 |
+| [机器人抓取控制方法和装置](https://patents.google.com/patent/CN122274992B) | CN122274992B | 深圳璇玑动力科技有限公司 | 2026 |
+| [一种机器人末端载荷的智能识别与自适应配置方法](https://patents.google.com/patent/CN122807960B) | CN122807960B | 深圳璇玑动力科技有限公司 | 2026 |
 | [灵巧手和机器人](https://patents.google.com/patent/CN120116244B) | CN120116244B | 智元创新（上海）科技股份有限公司 | 2025 |
 | [灵巧手手指、灵巧手和机器人](https://patents.google.com/patent/CN120170772B) | CN120170772B | 智元创新（上海）科技股份有限公司 | 2025 |
 
@@ -230,7 +268,7 @@ mindmap
 | [机器人控制方法、装置、机器人遥控设备及存储介质](https://patents.google.com/patent/CN119489431B) | CN119489431B | 北京小米机器人技术有限公司 | 2023 |
 
 <a id="inspection-robotics"></a>
-## 🔎 Inspection Robotics(16)
+## 🔎 Inspection Robotics(25)
 
 > 巡检机器人：电力、轨道、隧道、化工等场景的巡检系统与装置
 
@@ -251,10 +289,19 @@ mindmap
 | [一种轨道巡检机器人的行走机构](https://patents.google.com/patent/CN114310929B) | CN114310929B | 杭州申昊科技股份有限公司 |  |
 | [一种模块化的轨道巡检机器人](https://patents.google.com/patent/CN118753326B) | CN118753326B | 杭州申昊科技股份有限公司 |  |
 | [一种智能轨道巡检机器人](https://patents.google.com/patent/CN111352412B) | CN111352412B | 深圳信通环球科技有限公司 |  |
+| [一种智能光伏运维管控系统](https://patents.google.com/patent/CN115441832A) | CN115441832A | 深圳璇玑动力科技有限公司 | 2022 |
+| [一种智能供配电运维管理系统](https://patents.google.com/patent/CN115526358A) | CN115526358A | 深圳璇玑动力科技有限公司 | 2022 |
+| [一种用于机器狗的防爆区域自主巡检方法及系统](https://patents.google.com/patent/CN120802962B) | CN120802962B | 深圳璇玑动力科技有限公司 | 2025 |
+| [一种联合无人机的腿足式机器人智能巡检方法及系统](https://patents.google.com/patent/CN120856960B) | CN120856960B | 深圳璇玑动力科技有限公司 | 2025 |
+| [一种基于腿足式机器人的铁路巡检路径规划方法及系统](https://patents.google.com/patent/CN122524120B) | CN122524120B | 深圳璇玑动力科技有限公司 | 2026 |
+| [多场景巡检的足式机器人任务切换与路径规划方法及系统](https://patents.google.com/patent/CN122566861B) | CN122566861B | 深圳璇玑动力科技有限公司 | 2026 |
+| [基于视觉语言大模型与知识图谱的机器人表计动态读数与状态研判方法](https://patents.google.com/patent/CN122574823B) | CN122574823B | 深圳璇玑动力科技有限公司 | 2026 |
+| [机器人铁路沿线设备巡检图像的异常识别方法及系统](https://patents.google.com/patent/CN122760973B) | CN122760973B | 深圳璇玑动力科技有限公司 | 2026 |
+| [高海拔地区巡检移动平台的能耗约束路径规划方法及系统](https://patents.google.com/patent/CN122835413B) | CN122835413B | 深圳璇玑动力科技有限公司 | 2026 |
 | [巡检机器人](https://patents.google.com/patent/CN222768434U) | CN222768434U | 深圳优艾智合机器人科技有限公司 |  |
 
 <a id="locomotion"></a>
-## 🦿 Locomotion(18)
+## 🦿 Locomotion(24)
 
 > 运动控制与平衡：步态规划、全身控制、动态平衡
 
@@ -278,9 +325,15 @@ mindmap
 | [机器人及其运动控制方法、装置、存储介质](https://patents.google.com/patent/CN118081729B) | CN118081729B | 北京小米机器人技术有限公司 | 2022 |
 | [轨迹生成方法、装置、机器人及存储介质](https://patents.google.com/patent/CN118288299B) | CN118288299B | 北京小米机器人技术有限公司 | 2022 |
 | [一种用于舵轮底盘的矢量控制方法及装置](https://patents.google.com/patent/CN119847134A) | CN119847134A | 星海图（苏州）人工智能科技有限公司 | 2025 |
+| [机器人的落足点规划方法、装置、设备及存储介质](https://patents.google.com/patent/CN122151837A) | CN122151837A | 深圳璇玑动力科技有限公司 | 2026 |
+| [机器人运动控制方法、机器人运动控制装置和四足机器人](https://patents.google.com/patent/CN122151926B) | CN122151926B | 深圳璇玑动力科技有限公司 | 2026 |
+| [四足及腿轮式机器人的运动控制方法、装置、设备及存储介质](https://patents.google.com/patent/CN122172777A) | CN122172777A | 深圳璇玑动力科技有限公司 | 2026 |
+| [基于牵引装置的四足机器人运动驱动方法及装置](https://patents.google.com/patent/CN122284596A) | CN122284596A | 深圳璇玑动力科技有限公司 | 2026 |
+| [轮足式机器人倒立旋转特技控制方法、装置、设备及存储介质](https://patents.google.com/patent/CN122387114A) | CN122387114A | 深圳璇玑动力科技有限公司 | 2026 |
+| [一种运动控制模型训练方法及装置、机器人运动控制方法](https://patents.google.com/patent/CN122411128B) | CN122411128B | 深圳璇玑动力科技有限公司 | 2026 |
 
 <a id="navigation--slam"></a>
-## 🧭 Navigation &amp; SLAM(12)
+## 🧭 Navigation &amp; SLAM(13)
 
 > 导航与 SLAM：定位建图、路径规划、场景理解
 
@@ -297,10 +350,11 @@ mindmap
 | [基于图形码的机器人定位方法、装置、设备及存储介质](https://patents.google.com/patent/CN116993820B) | CN116993820B | 腾讯科技（深圳）有限公司 | 2022 |
 | [VISUAL TEACH AND REPEAT MOBILE MANIPULATION SYSTEM](https://patents.google.com/patent/WO2021016394A1) | WO2021016394A1 | Toyota Research Institute, Inc. | 2021 |
 | [路径处理方法、装置、电子设备、计算机可读存储介质及计算机程序产品](https://patents.google.com/patent/CN121323671B) | CN121323671B | 深圳市优必选科技股份有限公司 | 2025 |
+| [一种狭小空间下的腿足式机器人巡检导航方法及系统](https://patents.google.com/patent/CN122448185B) | CN122448185B | 深圳璇玑动力科技有限公司 | 2026 |
 | [轨道机器人的定位方法、轨道机器人和可读存储介质](https://patents.google.com/patent/CN119774204A) | CN119774204A | 深圳优艾智合机器人科技有限公司 |  |
 
 <a id="sim2real--data"></a>
-## 🎲 Sim2Real &amp; Data(8)
+## 🎲 Sim2Real &amp; Data(12)
 
 > 仿真训练与数据合成：sim2real 迁移、数据采集与蒸馏
 
@@ -314,6 +368,10 @@ mindmap
 | [一种训练样本的物体位姿标注方法、装置及系统](https://patents.google.com/patent/CN120031923A) | CN120031923A | 帕西尼感知科技（深圳）有限公司 | 2025 |
 | [SYNTHETIC ROBOT DATA GENERATION AND MODEL TRAINING WITH THE SYNTHETIC ROBOT DATA](https://patents.google.com/patent/WO2026143291A1) | WO2026143291A1 | Sanctuary Cognitive Systems Corporation (Sanctuary AI) | 2026 |
 | [SYSTEM AND METHOD FOR UNKNOWN OBJECT MANIPULATION FROM PURE SYNTHETIC STEREO DATA](https://patents.google.com/patent/US20230398692A1) | US20230398692A1 | Toyota Research Institute, Inc. | 2023 |
+| [一种策略网络训练方法及装置、机器人控制方法和机器人](https://patents.google.com/patent/CN122287768B) | CN122287768B | 深圳璇玑动力科技有限公司 | 2026 |
+| [针对四足机器人的测试及评估方法及四足机器人](https://patents.google.com/patent/CN122378805A) | CN122378805A | 深圳璇玑动力科技有限公司 | 2026 |
+| [时序传感数据驱动的机器人训练动作质量测评方法及系统](https://patents.google.com/patent/CN122571190B) | CN122571190B | 深圳璇玑动力科技有限公司 | 2026 |
+| [基于数字孪生的机器人状态预测方法及系统](https://patents.google.com/patent/CN123010812A) | CN123010812A | 深圳璇玑动力科技有限公司 | 2026 |
 
 <a id="tactile-sensing"></a>
 ## 👆 Tactile Sensing(9)
