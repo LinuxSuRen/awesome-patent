@@ -5,11 +5,11 @@
 
 **具身智能（Embodied AI）专利精选：按技术领域与公司两个维度收录人形机器人、操作大模型、灵巧手等方向的代表性专利，持续更新**
 
-已收录 **454** 条专利 · 覆盖 **67** 家公司 / 机构 · **9** 个技术领域分类（见[目录](#目录)）
+已收录 **455** 条专利 · 覆盖 **67** 家公司 / 机构 · **9** 个技术领域分类（见[目录](#目录)）
 
 [![Stars](https://img.shields.io/github/stars/LinuxSuRen/awesome-patent?style=flat-square)](https://github.com/LinuxSuRen/awesome-patent/stargazers)
 [![Last Commit](https://img.shields.io/github/last-commit/LinuxSuRen/awesome-patent?style=flat-square)](https://github.com/LinuxSuRen/awesome-patent/commits)
-[![Patents](https://img.shields.io/github/badge/patents-454-blue?style=flat-square)](#目录)
+[![Patents](https://img.shields.io/github/badge/patents-455-blue?style=flat-square)](#目录)
 [![License](https://img.shields.io/badge/license-MIT-green?style=flat-square)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square)](CONTRIBUTING.md)
 
@@ -216,6 +216,7 @@ mindmap
       UNDERACTUATED HAND WITH CABLE-DRIVEN FINGERS · Tesla, Inc.
       机器人抓取控制方法和装置 · 深圳璇玑动力科技有限公司
       一种机器人末端载荷的智能识别与自适应配置方法 · 深圳璇玑动力科技有限公司
+      多自由度机械臂与四足机器人协同控制强化学习方法、装置、设备及存储介质 · 深圳璇玑动力科技有限公司
       机械臂的控制方法、搬运机器人及存储介质 · 优艾智合机器人科技有限公司
       机器人的物料拣选方法、终端设备和可读存储介质 · 优艾智合机器人科技有限公司
       机器人的作业对象定位方法、装置、机器人及存储介质 · 优艾智合机器人科技有限公司
@@ -488,7 +489,7 @@ mindmap
 
 ## 目录
 - ⚙️ [Actuator &amp; Structure](#actuator--structure)（156）
-- 🤏 [Dexterous Manipulation](#dexterous-manipulation)（43）
+- 🤏 [Dexterous Manipulation](#dexterous-manipulation)（44）
 - 🛡️ [Human-Robot Safety](#human-robot-safety)（11）
 - 🔎 [Inspection Robotics](#inspection-robotics)（77）
 - 🦿 [Locomotion](#locomotion)（58）
@@ -663,7 +664,7 @@ mindmap
 | [关节模组和机器人](https://patents.google.com/patent/CN120862745B) | CN120862745B | 智元创新（上海）科技股份有限公司 | 2025 |
 
 <a id="dexterous-manipulation"></a>
-## 🤏 Dexterous Manipulation(43)
+## 🤏 Dexterous Manipulation(44)
 
 > 灵巧手与操作：抓取、柔性操作、多指控制
 
@@ -707,6 +708,7 @@ mindmap
 | [UNDERACTUATED HAND WITH CABLE-DRIVEN FINGERS](https://patents.google.com/patent/WO2024073138A1) | WO2024073138A1 | Tesla, Inc. | 2024 |
 | [机器人抓取控制方法和装置](https://patents.google.com/patent/CN122274992B) | CN122274992B | 深圳璇玑动力科技有限公司 | 2026 |
 | [一种机器人末端载荷的智能识别与自适应配置方法](https://patents.google.com/patent/CN122807960B) | CN122807960B | 深圳璇玑动力科技有限公司 | 2026 |
+| [多自由度机械臂与四足机器人协同控制强化学习方法、装置、设备及存储介质](https://patents.google.com/patent/CN122876385A) | CN122876385A | 深圳璇玑动力科技有限公司 | 2026 |
 | [机械臂的控制方法、搬运机器人及存储介质](https://patents.google.com/patent/CN118123805B) | CN118123805B | 优艾智合机器人科技有限公司 | 2026 |
 | [机器人的物料拣选方法、终端设备和可读存储介质](https://patents.google.com/patent/CN119873174B) | CN119873174B | 优艾智合机器人科技有限公司 | 2026 |
 | [机器人的作业对象定位方法、装置、机器人及存储介质](https://patents.google.com/patent/CN123000839A) | CN123000839A | 优艾智合机器人科技有限公司 | 2026 |
