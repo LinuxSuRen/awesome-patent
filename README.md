@@ -606,7 +606,7 @@ mindmap
 | [一种人形机器人包装结构、包装方法和使用方法](https://patents.google.com/patent/CN122976981A) | CN122976981A | 杭州宇树科技有限公司 | 2026 |
 | [一种带有航座可容纳多台无人机的四足机器人](https://patents.google.com/patent/CN118025371B) | CN118025371B | 杭州云深处科技股份有限公司 | 2024 |
 | [轴系组件、转动机构和机器人](https://patents.google.com/patent/CN119188832A) | CN119188832A | 深圳璇玑动力科技有限公司 | 2024 |
-| [定子总成以及电机定子加工方法和设备](https://patents.google.com/patent/CN121077124A) | CN121077124A | 深圳璇玑动力科技有限公司 | 2026 |
+| [定子总成以及电机定子加工方法和设备](https://patents.google.com/patent/CN121077124B) | CN121077124B | 深圳璇玑动力科技有限公司 | 2026 |
 | [四足机器人回充定位方法、装置、机器人及介质](https://patents.google.com/patent/CN121475227B) | CN121475227B | 深圳璇玑动力科技有限公司 | 2026 |
 | [一种机器人回充定位方法、装置、足式机器人及存储介质](https://patents.google.com/patent/CN121704471A) | CN121704471A | 深圳璇玑动力科技有限公司 | 2026 |
 | [一种模块化的四足机器人](https://patents.google.com/patent/CN121822678A) | CN121822678A | 深圳璇玑动力科技有限公司 | 2026 |
