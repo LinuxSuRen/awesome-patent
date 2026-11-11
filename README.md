@@ -5,11 +5,11 @@
 
 **具身智能（Embodied AI）专利精选：按技术领域与公司两个维度收录人形机器人、操作大模型、灵巧手等方向的代表性专利，持续更新**
 
-已收录 **455** 条专利 · 覆盖 **67** 家公司 / 机构 · **9** 个技术领域分类（见[目录](#目录)）
+已收录 **461** 条专利 · 覆盖 **67** 家公司 / 机构 · **9** 个技术领域分类（见[目录](#目录)）
 
 [![Stars](https://img.shields.io/github/stars/LinuxSuRen/awesome-patent?style=flat-square)](https://github.com/LinuxSuRen/awesome-patent/stargazers)
 [![Last Commit](https://img.shields.io/github/last-commit/LinuxSuRen/awesome-patent?style=flat-square)](https://github.com/LinuxSuRen/awesome-patent/commits)
-[![Patents](https://img.shields.io/github/badge/patents-455-blue?style=flat-square)](#目录)
+[![Patents](https://img.shields.io/github/badge/patents-461-blue?style=flat-square)](#目录)
 [![License](https://img.shields.io/badge/license-MIT-green?style=flat-square)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square)](CONTRIBUTING.md)
 
@@ -125,10 +125,12 @@ mindmap
       四足机器人回充定位方法、装置、机器人及介质 · 深圳璇玑动力科技有限公司
       一种机器人回充定位方法、装置、足式机器人及存储介质 · 深圳璇玑动力科技有限公司
       一种模块化的四足机器人 · 深圳璇玑动力科技有限公司
+      基于强化学习的电机缺陷识别和补偿方法、装置、设备及存储介质 · 深圳璇玑动力科技有限公司
       足式机器人、充电桩及充电系统 · 深圳璇玑动力科技有限公司
       一种机器人制造用双面自动点焊机 · 深圳璇玑动力科技有限公司
       主从站通信链路自愈方法、装置、设备及存储介质 · 深圳璇玑动力科技有限公司
       关节模组 · 深圳璇玑动力科技有限公司
+      电机与电机设备 · 深圳璇玑动力科技有限公司
       一种电机 · 深圳璇玑动力科技有限公司
       定子绕组、定子组件和电机 · 深圳璇玑动力科技有限公司
       接线排、定子组件和电机 · 深圳璇玑动力科技有限公司
@@ -214,6 +216,7 @@ mindmap
       一种地铁车底巡检机器人机械臂的关节摩擦力补偿方法 · 杭州申昊科技股份有限公司
       双臂机器人的控制方法及装置、搬运方法、和双臂机器人 · 腾讯科技（深圳）有限公司
       UNDERACTUATED HAND WITH CABLE-DRIVEN FINGERS · Tesla, Inc.
+      机械臂在线调试的自学习控制方法、装置、设备、存储介质及计算机程序产品 · 深圳璇玑动力科技有限公司
       机器人抓取控制方法和装置 · 深圳璇玑动力科技有限公司
       一种机器人末端载荷的智能识别与自适应配置方法 · 深圳璇玑动力科技有限公司
       多自由度机械臂与四足机器人协同控制强化学习方法、装置、设备及存储介质 · 深圳璇玑动力科技有限公司
@@ -352,10 +355,13 @@ mindmap
       一种用于舵轮底盘的矢量控制方法及装置 · 星海图（苏州）人工智能科技有限公司
       足式机器人控制方法、装置、机器人及介质 · 深圳璇玑动力科技有限公司
       四足机器人降噪方法及四足机器人 · 深圳璇玑动力科技有限公司
+      电动助力自行车控制方法、系统、设备、存储介质及产品 · 深圳璇玑动力科技有限公司
+      轮足机器人转向控制方法、装置、设备及存储介质 · 深圳璇玑动力科技有限公司
       机器人的落足点规划方法、装置、设备及存储介质 · 深圳璇玑动力科技有限公司
       机器人运动控制方法、机器人运动控制装置和四足机器人 · 深圳璇玑动力科技有限公司
       机器人、机器人控制方法、系统及可读存储介质 · 深圳璇玑动力科技有限公司
       四足及腿轮式机器人的运动控制方法、装置、设备及存储介质 · 深圳璇玑动力科技有限公司
+      机器人的负载平衡控制方法、装置、设备及存储介质 · 深圳璇玑动力科技有限公司
       一种工业机器人控制方法、装置、设备及存储介质 · 深圳璇玑动力科技有限公司
       基于牵引装置的四足机器人运动驱动方法及装置 · 深圳璇玑动力科技有限公司
       轮足式机器人倒立旋转特技控制方法、装置、设备及存储介质 · 深圳璇玑动力科技有限公司
@@ -488,11 +494,11 @@ mindmap
 
 
 ## 目录
-- ⚙️ [Actuator &amp; Structure](#actuator--structure)（156）
-- 🤏 [Dexterous Manipulation](#dexterous-manipulation)（44）
+- ⚙️ [Actuator &amp; Structure](#actuator--structure)（158）
+- 🤏 [Dexterous Manipulation](#dexterous-manipulation)（45）
 - 🛡️ [Human-Robot Safety](#human-robot-safety)（11）
 - 🔎 [Inspection Robotics](#inspection-robotics)（77）
-- 🦿 [Locomotion](#locomotion)（58）
+- 🦿 [Locomotion](#locomotion)（61）
 - 🧭 [Navigation &amp; SLAM](#navigation--slam)（55）
 - 🎲 [Sim2Real &amp; Data](#sim2real--data)（29）
 - 👆 [Tactile Sensing](#tactile-sensing)（11）
@@ -500,7 +506,7 @@ mindmap
 
 
 <a id="actuator--structure"></a>
-## ⚙️ Actuator &amp; Structure(156)
+## ⚙️ Actuator &amp; Structure(158)
 
 > 关节执行器与结构：关节模组、准直驱、整机结构
 
@@ -610,10 +616,12 @@ mindmap
 | [四足机器人回充定位方法、装置、机器人及介质](https://patents.google.com/patent/CN121475227B) | CN121475227B | 深圳璇玑动力科技有限公司 | 2026 |
 | [一种机器人回充定位方法、装置、足式机器人及存储介质](https://patents.google.com/patent/CN121704471A) | CN121704471A | 深圳璇玑动力科技有限公司 | 2026 |
 | [一种模块化的四足机器人](https://patents.google.com/patent/CN121822678A) | CN121822678A | 深圳璇玑动力科技有限公司 | 2026 |
+| [基于强化学习的电机缺陷识别和补偿方法、装置、设备及存储介质](https://patents.google.com/patent/CN122221056A) | CN122221056A | 深圳璇玑动力科技有限公司 | 2026 |
 | [足式机器人、充电桩及充电系统](https://patents.google.com/patent/CN122512605B) | CN122512605B | 深圳璇玑动力科技有限公司 | 2026 |
 | [一种机器人制造用双面自动点焊机](https://patents.google.com/patent/CN122703121B) | CN122703121B | 深圳璇玑动力科技有限公司 | 2026 |
 | [主从站通信链路自愈方法、装置、设备及存储介质](https://patents.google.com/patent/CN123020329A) | CN123020329A | 深圳璇玑动力科技有限公司 | 2026 |
 | [关节模组](https://patents.google.com/patent/CN224407642U) | CN224407642U | 深圳璇玑动力科技有限公司 | 2026 |
+| [电机与电机设备](https://patents.google.com/patent/CN224418536U) | CN224418536U | 深圳璇玑动力科技有限公司 | 2026 |
 | [一种电机](https://patents.google.com/patent/CN224438728U) | CN224438728U | 深圳璇玑动力科技有限公司 | 2026 |
 | [定子绕组、定子组件和电机](https://patents.google.com/patent/CN224582978U) | CN224582978U | 深圳璇玑动力科技有限公司 | 2026 |
 | [接线排、定子组件和电机](https://patents.google.com/patent/CN224596252U) | CN224596252U | 深圳璇玑动力科技有限公司 | 2026 |
@@ -664,7 +672,7 @@ mindmap
 | [关节模组和机器人](https://patents.google.com/patent/CN120862745B) | CN120862745B | 智元创新（上海）科技股份有限公司 | 2025 |
 
 <a id="dexterous-manipulation"></a>
-## 🤏 Dexterous Manipulation(44)
+## 🤏 Dexterous Manipulation(45)
 
 > 灵巧手与操作：抓取、柔性操作、多指控制
 
@@ -706,6 +714,7 @@ mindmap
 | [一种地铁车底巡检机器人机械臂的关节摩擦力补偿方法](https://patents.google.com/patent/CN121223766A) | CN121223766A | 杭州申昊科技股份有限公司 | 2025 |
 | [双臂机器人的控制方法及装置、搬运方法、和双臂机器人](https://patents.google.com/patent/CN116197890B) | CN116197890B | 腾讯科技（深圳）有限公司 | 2021 |
 | [UNDERACTUATED HAND WITH CABLE-DRIVEN FINGERS](https://patents.google.com/patent/WO2024073138A1) | WO2024073138A1 | Tesla, Inc. | 2024 |
+| [机械臂在线调试的自学习控制方法、装置、设备、存储介质及计算机程序产品](https://patents.google.com/patent/CN121989234A) | CN121989234A | 深圳璇玑动力科技有限公司 | 2026 |
 | [机器人抓取控制方法和装置](https://patents.google.com/patent/CN122274992B) | CN122274992B | 深圳璇玑动力科技有限公司 | 2026 |
 | [一种机器人末端载荷的智能识别与自适应配置方法](https://patents.google.com/patent/CN122807960B) | CN122807960B | 深圳璇玑动力科技有限公司 | 2026 |
 | [多自由度机械臂与四足机器人协同控制强化学习方法、装置、设备及存储介质](https://patents.google.com/patent/CN122876385A) | CN122876385A | 深圳璇玑动力科技有限公司 | 2026 |
@@ -820,7 +829,7 @@ mindmap
 | [一种便捷移动式图像信息采集装置](https://patents.google.com/patent/CN116027348B) | CN116027348B | 杭州云深处科技股份有限公司 | 2026 |
 
 <a id="locomotion"></a>
-## 🦿 Locomotion(58)
+## 🦿 Locomotion(61)
 
 > 运动控制与平衡：步态规划、全身控制、动态平衡
 
@@ -865,10 +874,13 @@ mindmap
 | [一种用于舵轮底盘的矢量控制方法及装置](https://patents.google.com/patent/CN119847134A) | CN119847134A | 星海图（苏州）人工智能科技有限公司 | 2025 |
 | [足式机器人控制方法、装置、机器人及介质](https://patents.google.com/patent/CN121411264A) | CN121411264A | 深圳璇玑动力科技有限公司 | 2026 |
 | [四足机器人降噪方法及四足机器人](https://patents.google.com/patent/CN121438796A) | CN121438796A | 深圳璇玑动力科技有限公司 | 2026 |
+| [电动助力自行车控制方法、系统、设备、存储介质及产品](https://patents.google.com/patent/CN121849284A) | CN121849284A | 深圳璇玑动力科技有限公司 | 2026 |
+| [轮足机器人转向控制方法、装置、设备及存储介质](https://patents.google.com/patent/CN122151619A) | CN122151619A | 深圳璇玑动力科技有限公司 | 2026 |
 | [机器人的落足点规划方法、装置、设备及存储介质](https://patents.google.com/patent/CN122151837A) | CN122151837A | 深圳璇玑动力科技有限公司 | 2026 |
 | [机器人运动控制方法、机器人运动控制装置和四足机器人](https://patents.google.com/patent/CN122151926B) | CN122151926B | 深圳璇玑动力科技有限公司 | 2026 |
 | [机器人、机器人控制方法、系统及可读存储介质](https://patents.google.com/patent/CN122165425A) | CN122165425A | 深圳璇玑动力科技有限公司 | 2026 |
 | [四足及腿轮式机器人的运动控制方法、装置、设备及存储介质](https://patents.google.com/patent/CN122172777A) | CN122172777A | 深圳璇玑动力科技有限公司 | 2026 |
+| [机器人的负载平衡控制方法、装置、设备及存储介质](https://patents.google.com/patent/CN122239545A) | CN122239545A | 深圳璇玑动力科技有限公司 | 2026 |
 | [一种工业机器人控制方法、装置、设备及存储介质](https://patents.google.com/patent/CN122253175A) | CN122253175A | 深圳璇玑动力科技有限公司 | 2026 |
 | [基于牵引装置的四足机器人运动驱动方法及装置](https://patents.google.com/patent/CN122284596A) | CN122284596A | 深圳璇玑动力科技有限公司 | 2026 |
 | [轮足式机器人倒立旋转特技控制方法、装置、设备及存储介质](https://patents.google.com/patent/CN122387114A) | CN122387114A | 深圳璇玑动力科技有限公司 | 2026 |
