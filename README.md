@@ -5,11 +5,11 @@
 
 **具身智能（Embodied AI）专利精选：按技术领域与公司两个维度收录人形机器人、操作大模型、灵巧手等方向的代表性专利，持续更新**
 
-已收录 **461** 条专利 · 覆盖 **67** 家公司 / 机构 · **9** 个技术领域分类（见[目录](#目录)）
+已收录 **462** 条专利 · 覆盖 **67** 家公司 / 机构 · **9** 个技术领域分类（见[目录](#目录)）
 
 [![Stars](https://img.shields.io/github/stars/LinuxSuRen/awesome-patent?style=flat-square)](https://github.com/LinuxSuRen/awesome-patent/stargazers)
 [![Last Commit](https://img.shields.io/github/last-commit/LinuxSuRen/awesome-patent?style=flat-square)](https://github.com/LinuxSuRen/awesome-patent/commits)
-[![Patents](https://img.shields.io/github/badge/patents-461-blue?style=flat-square)](#目录)
+[![Patents](https://img.shields.io/github/badge/patents-462-blue?style=flat-square)](#目录)
 [![License](https://img.shields.io/badge/license-MIT-green?style=flat-square)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square)](CONTRIBUTING.md)
 
@@ -475,6 +475,7 @@ mindmap
       柔性包裹的触觉感知装置 · 北京他山科技有限公司
       触觉传感器芯片 · 北京他山科技有限公司
       一种带变形部扭力感知的减速器、关节结构和机器人关节 · 杭州宇树科技有限公司
+      基于三轴线性霍尔传感器的角度检测方法、装置、设备及存储介质 · 深圳璇玑动力科技有限公司
     VLA Model
       数据处理方法、装置及电子设备 · 星尘智能（深圳）人工智能科技股份有限公司
       DEEP MACHINE LEARNING METHODS AND APPARATUS FOR ROBOTIC GRASPING · Google LLC （DeepMind）
@@ -501,7 +502,7 @@ mindmap
 - 🦿 [Locomotion](#locomotion)（61）
 - 🧭 [Navigation &amp; SLAM](#navigation--slam)（55）
 - 🎲 [Sim2Real &amp; Data](#sim2real--data)（29）
-- 👆 [Tactile Sensing](#tactile-sensing)（11）
+- 👆 [Tactile Sensing](#tactile-sensing)（12）
 - 🧠 [VLA Model](#vla-model)（14）
 
 
@@ -998,7 +999,7 @@ mindmap
 | [基于仿生机器马的马具性能测试方法、装置、设备和介质](https://patents.google.com/patent/CN121898823A) | CN121898823A | 杭州云深处科技股份有限公司 | 2026 |
 
 <a id="tactile-sensing"></a>
-## 👆 Tactile Sensing(11)
+## 👆 Tactile Sensing(12)
 
 > 触觉与传感：触觉皮肤、力觉感知、多模态传感
 
@@ -1015,6 +1016,7 @@ mindmap
 | [柔性包裹的触觉感知装置](https://patents.google.com/patent/CN119845454B) | CN119845454B | 北京他山科技有限公司 | 2026 |
 | [触觉传感器芯片](https://patents.google.com/patent/CN121917103A) | CN121917103A | 北京他山科技有限公司 | 2026 |
 | [一种带变形部扭力感知的减速器、关节结构和机器人关节](https://patents.google.com/patent/CN118066276A) | CN118066276A | 杭州宇树科技有限公司 | 2024 |
+| [基于三轴线性霍尔传感器的角度检测方法、装置、设备及存储介质](https://patents.google.com/patent/CN122083816A) | CN122083816A | 深圳璇玑动力科技有限公司 | 2026 |
 
 <a id="vla-model"></a>
 ## 🧠 VLA Model(14)
