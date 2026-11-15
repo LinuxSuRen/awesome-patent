@@ -5,11 +5,11 @@
 
 **具身智能（Embodied AI）专利精选：按技术领域与公司两个维度收录人形机器人、操作大模型、灵巧手等方向的代表性专利，持续更新**
 
-已收录 **465** 条专利 · 覆盖 **67** 家公司 / 机构 · **9** 个技术领域分类（见[目录](#目录)）
+已收录 **467** 条专利 · 覆盖 **67** 家公司 / 机构 · **9** 个技术领域分类（见[目录](#目录)）
 
 [![Stars](https://img.shields.io/github/stars/LinuxSuRen/awesome-patent?style=flat-square)](https://github.com/LinuxSuRen/awesome-patent/stargazers)
 [![Last Commit](https://img.shields.io/github/last-commit/LinuxSuRen/awesome-patent?style=flat-square)](https://github.com/LinuxSuRen/awesome-patent/commits)
-[![Patents](https://img.shields.io/github/badge/patents-465-blue?style=flat-square)](#目录)
+[![Patents](https://img.shields.io/github/badge/patents-467-blue?style=flat-square)](#目录)
 [![License](https://img.shields.io/badge/license-MIT-green?style=flat-square)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square)](CONTRIBUTING.md)
 
@@ -125,6 +125,7 @@ mindmap
       四足机器人回充定位方法、装置、机器人及介质 · 深圳璇玑动力科技有限公司
       一种机器人回充定位方法、装置、足式机器人及存储介质 · 深圳璇玑动力科技有限公司
       一种模块化的四足机器人 · 深圳璇玑动力科技有限公司
+      双网口EtherCAT主站冗余通信方法及设备 · 深圳璇玑动力科技有限公司
       定子组件的生产工艺 · 深圳璇玑动力科技有限公司
       基于强化学习的电机缺陷识别和补偿方法、装置、设备及存储介质 · 深圳璇玑动力科技有限公司
       足式机器人、充电桩及充电系统 · 深圳璇玑动力科技有限公司
@@ -358,6 +359,7 @@ mindmap
       足式机器人控制方法、装置、机器人及介质 · 深圳璇玑动力科技有限公司
       四足机器人降噪方法及四足机器人 · 深圳璇玑动力科技有限公司
       电动助力自行车控制方法、系统、设备、存储介质及产品 · 深圳璇玑动力科技有限公司
+      机器人运动控制方法、装置、设备及存储介质 · 深圳璇玑动力科技有限公司
       轮足机器人转向控制方法、装置、设备及存储介质 · 深圳璇玑动力科技有限公司
       机器人的落足点规划方法、装置、设备及存储介质 · 深圳璇玑动力科技有限公司
       机器人运动控制方法、机器人运动控制装置和四足机器人 · 深圳璇玑动力科技有限公司
@@ -498,11 +500,11 @@ mindmap
 
 
 ## 目录
-- ⚙️ [Actuator &amp; Structure](#actuator--structure)（160）
+- ⚙️ [Actuator &amp; Structure](#actuator--structure)（161）
 - 🤏 [Dexterous Manipulation](#dexterous-manipulation)（45）
 - 🛡️ [Human-Robot Safety](#human-robot-safety)（11）
 - 🔎 [Inspection Robotics](#inspection-robotics)（77）
-- 🦿 [Locomotion](#locomotion)（61）
+- 🦿 [Locomotion](#locomotion)（62）
 - 🧭 [Navigation &amp; SLAM](#navigation--slam)（55）
 - 🎲 [Sim2Real &amp; Data](#sim2real--data)（30）
 - 👆 [Tactile Sensing](#tactile-sensing)（12）
@@ -510,7 +512,7 @@ mindmap
 
 
 <a id="actuator--structure"></a>
-## ⚙️ Actuator &amp; Structure(160)
+## ⚙️ Actuator &amp; Structure(161)
 
 > 关节执行器与结构：关节模组、准直驱、整机结构
 
@@ -620,6 +622,7 @@ mindmap
 | [四足机器人回充定位方法、装置、机器人及介质](https://patents.google.com/patent/CN121475227B) | CN121475227B | 深圳璇玑动力科技有限公司 | 2026 |
 | [一种机器人回充定位方法、装置、足式机器人及存储介质](https://patents.google.com/patent/CN121704471A) | CN121704471A | 深圳璇玑动力科技有限公司 | 2026 |
 | [一种模块化的四足机器人](https://patents.google.com/patent/CN121822678A) | CN121822678A | 深圳璇玑动力科技有限公司 | 2026 |
+| [双网口EtherCAT主站冗余通信方法及设备](https://patents.google.com/patent/CN121984915A) | CN121984915A | 深圳璇玑动力科技有限公司 | 2026 |
 | [定子组件的生产工艺](https://patents.google.com/patent/CN122052444A) | CN122052444A | 深圳璇玑动力科技有限公司 | 2026 |
 | [基于强化学习的电机缺陷识别和补偿方法、装置、设备及存储介质](https://patents.google.com/patent/CN122221056A) | CN122221056A | 深圳璇玑动力科技有限公司 | 2026 |
 | [足式机器人、充电桩及充电系统](https://patents.google.com/patent/CN122512605B) | CN122512605B | 深圳璇玑动力科技有限公司 | 2026 |
@@ -835,7 +838,7 @@ mindmap
 | [一种便捷移动式图像信息采集装置](https://patents.google.com/patent/CN116027348B) | CN116027348B | 杭州云深处科技股份有限公司 | 2026 |
 
 <a id="locomotion"></a>
-## 🦿 Locomotion(61)
+## 🦿 Locomotion(62)
 
 > 运动控制与平衡：步态规划、全身控制、动态平衡
 
@@ -881,6 +884,7 @@ mindmap
 | [足式机器人控制方法、装置、机器人及介质](https://patents.google.com/patent/CN121411264A) | CN121411264A | 深圳璇玑动力科技有限公司 | 2026 |
 | [四足机器人降噪方法及四足机器人](https://patents.google.com/patent/CN121438796A) | CN121438796A | 深圳璇玑动力科技有限公司 | 2026 |
 | [电动助力自行车控制方法、系统、设备、存储介质及产品](https://patents.google.com/patent/CN121849284A) | CN121849284A | 深圳璇玑动力科技有限公司 | 2026 |
+| [机器人运动控制方法、装置、设备及存储介质](https://patents.google.com/patent/CN121946481A) | CN121946481A | 深圳璇玑动力科技有限公司 | 2026 |
 | [轮足机器人转向控制方法、装置、设备及存储介质](https://patents.google.com/patent/CN122151619A) | CN122151619A | 深圳璇玑动力科技有限公司 | 2026 |
 | [机器人的落足点规划方法、装置、设备及存储介质](https://patents.google.com/patent/CN122151837A) | CN122151837A | 深圳璇玑动力科技有限公司 | 2026 |
 | [机器人运动控制方法、机器人运动控制装置和四足机器人](https://patents.google.com/patent/CN122151926B) | CN122151926B | 深圳璇玑动力科技有限公司 | 2026 |
