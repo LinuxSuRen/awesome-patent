@@ -5,11 +5,11 @@
 
 **具身智能（Embodied AI）专利精选：按技术领域与公司两个维度收录人形机器人、操作大模型、灵巧手等方向的代表性专利，持续更新**
 
-已收录 **467** 条专利 · 覆盖 **67** 家公司 / 机构 · **9** 个技术领域分类（见[目录](#目录)）
+已收录 **468** 条专利 · 覆盖 **67** 家公司 / 机构 · **9** 个技术领域分类（见[目录](#目录)）
 
 [![Stars](https://img.shields.io/github/stars/LinuxSuRen/awesome-patent?style=flat-square)](https://github.com/LinuxSuRen/awesome-patent/stargazers)
 [![Last Commit](https://img.shields.io/github/last-commit/LinuxSuRen/awesome-patent?style=flat-square)](https://github.com/LinuxSuRen/awesome-patent/commits)
-[![Patents](https://img.shields.io/github/badge/patents-467-blue?style=flat-square)](#目录)
+[![Patents](https://img.shields.io/github/badge/patents-468-blue?style=flat-square)](#目录)
 [![License](https://img.shields.io/badge/license-MIT-green?style=flat-square)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square)](CONTRIBUTING.md)
 
@@ -421,6 +421,7 @@ mindmap
       基于多传感器数据融合的动态时空同步建图方法和系统 · 杭州宇树科技有限公司
       一种基于多地图融合的机器人导航交互控制方法和系统 · 杭州宇树科技有限公司
       一种机器人多楼层复合导航方法和设备 · 杭州宇树科技有限公司
+      激光雷达点云数据的处理方法、装置、设备以及存储介质 · 深圳璇玑动力科技有限公司
       视频处理方法、系统、计算机设备及存储介质 · 深圳璇玑动力科技有限公司
       全景图像生成方法、系统、设备及介质 · 深圳璇玑动力科技有限公司
       一种狭小空间下的腿足式机器人巡检导航方法及系统 · 深圳璇玑动力科技有限公司
@@ -505,7 +506,7 @@ mindmap
 - 🛡️ [Human-Robot Safety](#human-robot-safety)（11）
 - 🔎 [Inspection Robotics](#inspection-robotics)（77）
 - 🦿 [Locomotion](#locomotion)（62）
-- 🧭 [Navigation &amp; SLAM](#navigation--slam)（55）
+- 🧭 [Navigation &amp; SLAM](#navigation--slam)（56）
 - 🎲 [Sim2Real &amp; Data](#sim2real--data)（30）
 - 👆 [Tactile Sensing](#tactile-sensing)（12）
 - 🧠 [VLA Model](#vla-model)（14）
@@ -908,7 +909,7 @@ mindmap
 | [一种四足机器人跟随方法、装置和设备](https://patents.google.com/patent/CN122507099B) | CN122507099B | 杭州云深处科技股份有限公司 | 2026 |
 
 <a id="navigation--slam"></a>
-## 🧭 Navigation &amp; SLAM(55)
+## 🧭 Navigation &amp; SLAM(56)
 
 > 导航与 SLAM：定位建图、路径规划、场景理解
 
@@ -953,6 +954,7 @@ mindmap
 | [基于多传感器数据融合的动态时空同步建图方法和系统](https://patents.google.com/patent/CN120510315B) | CN120510315B | 杭州宇树科技有限公司 | 2025 |
 | [一种基于多地图融合的机器人导航交互控制方法和系统](https://patents.google.com/patent/CN120521612B) | CN120521612B | 杭州宇树科技有限公司 | 2025 |
 | [一种机器人多楼层复合导航方法和设备](https://patents.google.com/patent/CN120702483B) | CN120702483B | 杭州宇树科技有限公司 | 2025 |
+| [激光雷达点云数据的处理方法、装置、设备以及存储介质](https://patents.google.com/patent/CN122218651A) | CN122218651A | 深圳璇玑动力科技有限公司 | 2026 |
 | [视频处理方法、系统、计算机设备及存储介质](https://patents.google.com/patent/CN122317251A) | CN122317251A | 深圳璇玑动力科技有限公司 | 2026 |
 | [全景图像生成方法、系统、设备及介质](https://patents.google.com/patent/CN122415944A) | CN122415944A | 深圳璇玑动力科技有限公司 | 2026 |
 | [一种狭小空间下的腿足式机器人巡检导航方法及系统](https://patents.google.com/patent/CN122448185B) | CN122448185B | 深圳璇玑动力科技有限公司 | 2026 |
